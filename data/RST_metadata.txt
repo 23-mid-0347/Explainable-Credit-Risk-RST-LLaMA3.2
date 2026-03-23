@@ -1,0 +1,13 @@
+Selected Columns:
+CheckingAccountStatus
+CreditHistory
+SavingsAccount
+Duration
+CreditAmount
+Age
+
+Dependency Degree: 0.339
+Approximation Accuracy: 0.108
+Lower Approximation: 80
+Upper Approximation: 741
+Boundary Region: 661

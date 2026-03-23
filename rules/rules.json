@@ -1,0 +1,42 @@
+{
+    "high_risk_rules": [
+        {
+            "conditions": {
+                "CheckingAccountStatus": 1,
+                "CreditHistory": "All credits paid back",
+                "SavingsAccount": "< 100 DM",
+                "Duration": "Short",
+                "CreditAmount": "Low",
+                "Age": "Young"
+            },
+            "support": 10,
+            "confidence": 0.8
+        },
+        {
+            "conditions": {
+                "CheckingAccountStatus": 2,
+                "CreditHistory": "Critical account",
+                "SavingsAccount": "< 100 DM",
+                "Duration": "Medium",
+                "CreditAmount": "Low",
+                "Age": "Young"
+            },
+            "support": 8,
+            "confidence": 0.75
+        }
+    ],
+    "low_risk_rules": [
+        {
+            "conditions": {
+                "CheckingAccountStatus": 4,
+                "CreditHistory": "Existing credits paid back",
+                "SavingsAccount": "< 100 DM",
+                "Duration": "Short",
+                "CreditAmount": "Low",
+                "Age": "Young"
+            },
+            "support": 50,
+            "confidence": 0.88
+        }
+    ]
+}

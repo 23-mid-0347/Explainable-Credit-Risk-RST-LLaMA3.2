@@ -1,0 +1,340 @@
+THESE WERE JUST ALL THE POSSIBLE COMBINATION RULES 
+Rule 1:
+IF CheckingAccountStatus = 1 AND CreditHistory = All credits paid back AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 2:
+IF CheckingAccountStatus = 1 AND CreditHistory = All credits paid back AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 3:
+IF CheckingAccountStatus = 1 AND CreditHistory = All credits paid back AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 4:
+IF CheckingAccountStatus = 1 AND CreditHistory = All credits paid back AND SavingsAccount = Unknown / None AND Duration = Short AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 2
+
+Rule 5:
+IF CheckingAccountStatus = 1 AND CreditHistory = Critical account AND SavingsAccount = 500 <= savings < 1000 AND Duration = Medium AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 6:
+IF CheckingAccountStatus = 1 AND CreditHistory = Critical account AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 2
+
+Rule 7:
+IF CheckingAccountStatus = 1 AND CreditHistory = Delay in paying AND SavingsAccount = < 100 DM AND Duration = Long AND CreditAmount = Medium AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 8:
+IF CheckingAccountStatus = 1 AND CreditHistory = Delay in paying AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 2
+
+Rule 9:
+IF CheckingAccountStatus = 1 AND CreditHistory = Delay in paying AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 10:
+IF CheckingAccountStatus = 1 AND CreditHistory = Existing credits paid back AND SavingsAccount = < 100 DM AND Duration = Long AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 11:
+IF CheckingAccountStatus = 1 AND CreditHistory = Existing credits paid back AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = High AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 12:
+IF CheckingAccountStatus = 1 AND CreditHistory = Existing credits paid back AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 2
+
+Rule 13:
+IF CheckingAccountStatus = 1 AND CreditHistory = Existing credits paid back AND SavingsAccount = Unknown / None AND Duration = Medium AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 14:
+IF CheckingAccountStatus = 1 AND CreditHistory = Existing credits paid back AND SavingsAccount = Unknown / None AND Duration = Medium AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 15:
+IF CheckingAccountStatus = 1 AND CreditHistory = Existing credits paid back AND SavingsAccount = Unknown / None AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 2
+
+Rule 16:
+IF CheckingAccountStatus = 1 AND CreditHistory = Existing credits paid back AND SavingsAccount = Unknown / None AND Duration = Short AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 17:
+IF CheckingAccountStatus = 1 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 18:
+IF CheckingAccountStatus = 1 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 19:
+IF CheckingAccountStatus = 1 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 20:
+IF CheckingAccountStatus = 1 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 21:
+IF CheckingAccountStatus = 2 AND CreditHistory = All credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Long AND CreditAmount = High AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 22:
+IF CheckingAccountStatus = 2 AND CreditHistory = All credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Short AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 3
+
+Rule 23:
+IF CheckingAccountStatus = 2 AND CreditHistory = All credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Short AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 24:
+IF CheckingAccountStatus = 2 AND CreditHistory = All credits paid back AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 25:
+IF CheckingAccountStatus = 2 AND CreditHistory = All credits paid back AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Low AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 26:
+IF CheckingAccountStatus = 2 AND CreditHistory = All credits paid back AND SavingsAccount = >= 1000 DM AND Duration = Short AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 27:
+IF CheckingAccountStatus = 2 AND CreditHistory = Critical account AND SavingsAccount = 500 <= savings < 1000 AND Duration = Medium AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 28:
+IF CheckingAccountStatus = 2 AND CreditHistory = Critical account AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 29:
+IF CheckingAccountStatus = 2 AND CreditHistory = Delay in paying AND SavingsAccount = 100 <= savings < 500 AND Duration = Medium AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 30:
+IF CheckingAccountStatus = 2 AND CreditHistory = Delay in paying AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 31:
+IF CheckingAccountStatus = 2 AND CreditHistory = Delay in paying AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Low AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 32:
+IF CheckingAccountStatus = 2 AND CreditHistory = Delay in paying AND SavingsAccount = >= 1000 DM AND Duration = Short AND CreditAmount = Low AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 33:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Long AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 34:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Long AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 35:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Medium AND CreditAmount = High AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 36:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Medium AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 37:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Medium AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 2
+
+Rule 38:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 2
+
+Rule 39:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = 100 <= savings < 500 AND Duration = Short AND CreditAmount = Low AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 40:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = < 100 DM AND Duration = Long AND CreditAmount = High AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 41:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = < 100 DM AND Duration = Long AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 42:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = High AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 43:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = High AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 44:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = High AND Age = Middle
+THEN Risk = High Risk
+Support = 2
+
+Rule 45:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = >= 1000 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 46:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = Unknown / None AND Duration = Medium AND CreditAmount = High AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 47:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = Unknown / None AND Duration = Short AND CreditAmount = High AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 48:
+IF CheckingAccountStatus = 2 AND CreditHistory = Existing credits paid back AND SavingsAccount = Unknown / None AND Duration = Short AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 49:
+IF CheckingAccountStatus = 2 AND CreditHistory = No credit history AND SavingsAccount = 100 <= savings < 500 AND Duration = Medium AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 2
+
+Rule 50:
+IF CheckingAccountStatus = 2 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Long AND CreditAmount = High AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 51:
+IF CheckingAccountStatus = 2 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = High AND Age = Young
+THEN Risk = High Risk
+Support = 2
+
+Rule 52:
+IF CheckingAccountStatus = 2 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 53:
+IF CheckingAccountStatus = 2 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Low AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 54:
+IF CheckingAccountStatus = 2 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 55:
+IF CheckingAccountStatus = 3 AND CreditHistory = All credits paid back AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 56:
+IF CheckingAccountStatus = 3 AND CreditHistory = Critical account AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 57:
+IF CheckingAccountStatus = 3 AND CreditHistory = Critical account AND SavingsAccount = Unknown / None AND Duration = Short AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 58:
+IF CheckingAccountStatus = 3 AND CreditHistory = Delay in paying AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Low AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 59:
+IF CheckingAccountStatus = 3 AND CreditHistory = No credit history AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 60:
+IF CheckingAccountStatus = 4 AND CreditHistory = All credits paid back AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 61:
+IF CheckingAccountStatus = 4 AND CreditHistory = Critical account AND SavingsAccount = 100 <= savings < 500 AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 62:
+IF CheckingAccountStatus = 4 AND CreditHistory = Critical account AND SavingsAccount = 500 <= savings < 1000 AND Duration = Medium AND CreditAmount = Medium AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 63:
+IF CheckingAccountStatus = 4 AND CreditHistory = Critical account AND SavingsAccount = Unknown / None AND Duration = Short AND CreditAmount = High AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 64:
+IF CheckingAccountStatus = 4 AND CreditHistory = Delay in paying AND SavingsAccount = < 100 DM AND Duration = Medium AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 65:
+IF CheckingAccountStatus = 4 AND CreditHistory = Delay in paying AND SavingsAccount = < 100 DM AND Duration = Short AND CreditAmount = Medium AND Age = Young
+THEN Risk = High Risk
+Support = 1
+
+Rule 66:
+IF CheckingAccountStatus = 4 AND CreditHistory = Delay in paying AND SavingsAccount = >= 1000 DM AND Duration = Short AND CreditAmount = Low AND Age = Middle
+THEN Risk = High Risk
+Support = 1
+
+Rule 67:
+IF CheckingAccountStatus = 4 AND CreditHistory = Existing credits paid back AND SavingsAccount = Unknown / None AND Duration = Short AND CreditAmount = Medium AND Age = Old
+THEN Risk = High Risk
+Support = 1
+
+Rule 68:
+IF CheckingAccountStatus = 4 AND CreditHistory = No credit history AND SavingsAccount = Unknown / None AND Duration = Short AND CreditAmount = Low AND Age = Young
+THEN Risk = High Risk
+Support = 1

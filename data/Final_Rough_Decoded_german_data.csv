@@ -1,0 +1,1001 @@
+CheckingAccountStatus,Duration,CreditHistory,Purpose,CreditAmount,SavingsAccount,EmploymentDuration,InstallmentRate,PersonalStatus,Guarantor,ResidenceDuration,Property,Age,OtherInstallmentPlans,Housing,ExistingCredits,Job,Dependents,Telephone,ForeignWorker,Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Rent,2,Skilled,1,No,No,Low Risk
+2,Short,Existing credits paid back,Business,Low,100 <= savings < 500,4 - 7 years,2,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,3,Male single,,2,Real estate,Middle,,Rent,2,Unskilled,1,No,Yes,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,4,Male single,,4,Building society savings,Middle,Bank,Own,2,Unskilled,2,No,Yes,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,< 1 year,1,Male single,,3,Real estate,Middle,,Rent,2,Unskilled,1,No,Yes,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,4 - 7 years,1,Male single,,4,Real estate,Middle,,Own,2,Unskilled,2,No,Yes,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,< 1 year,2,Male single,,4,Real estate,Middle,,Own,1,Unskilled,1,No,Yes,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,Unemployed,4,Female divorced/separated/married,,4,Car or other,Old,,Own,2,Unemployed,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,Unemployed,1,Female divorced/separated/married,,4,Unknown / None,Young,,Rent,1,Unemployed,2,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Rent,2,Skilled,1,No,No,Low Risk
+1,Medium,Critical account,Car (used),Low,100 <= savings < 500,4 - 7 years,1,Male married/widowed,,4,Car or other,Young,,Rent,2,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,1,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,Delay in paying,Others,Medium,100 <= savings < 500,Unemployed,2,Male single,,4,Unknown / None,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,4 - 7 years,2,Male married/widowed,,4,Car or other,Young,,Rent,2,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,1 - 4 years,2,Male single,,3,Real estate,Middle,,Rent,1,Skilled,1,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,1,Male single,,2,Real estate,Middle,,Own,2,Unskilled,1,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,< 1 year,1,Male married/widowed,,3,Real estate,Young,,Rent,1,Skilled,2,No,No,Low Risk
+2,Medium,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Car (new),Medium,< 100 DM,1 - 4 years,1,Male single,,4,Building society savings,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,1,Male single,,3,Real estate,Young,,Rent,3,Skilled,1,No,No,Low Risk
+2,Short,Critical account,Car (new),Low,< 100 DM,< 1 year,1,Male single,,3,Real estate,Middle,Bank,Own,2,Unskilled,1,No,No,Low Risk
+2,Medium,Existing credits paid back,Repairs,Low,< 100 DM,< 1 year,4,Male single,,1,Unknown / None,Young,,Rent,1,Unskilled,2,No,No,High Risk
+2,Short,Critical account,Domestic appliances,Low,< 100 DM,4 - 7 years,4,Male single,,3,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,Unknown / None,< 1 year,1,Male single,,3,Real estate,Middle,,Own,2,Unskilled,1,No,No,Low Risk
+2,Short,Delay in paying,Radio/TV,Low,< 100 DM,4 - 7 years,2,Male single,,4,Building society savings,Middle,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,2,Male single,,4,Real estate,Young,,Own,3,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,1 - 4 years,3,Male single,,2,Unknown / None,Young,,Own,1,Skilled,2,No,No,Low Risk
+3,Medium,Critical account,Car (used),Low,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,2,No,No,Low Risk
+3,Medium,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Building society savings,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Critical account,Car (new),Low,< 100 DM,4 - 7 years,4,Male single,,4,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Medium,Critical account,Car (new),Medium,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,4 - 7 years,4,Female divorced/separated/married,,1,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,2,Male single,,3,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,1,Female divorced/separated/married,,4,Unknown / None,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,1,Real estate,Middle,,Own,2,Unskilled,1,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,2,Male single,,2,Unknown / None,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,Unknown / None,1 - 4 years,2,Male single,,1,Building society savings,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (used),Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,,2,Car or other,Middle,,Rent,2,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Repairs,Low,Unknown / None,4 - 7 years,4,Female divorced/separated/married,,4,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Others,Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,Guarantor,4,Real estate,Old,,Own,1,Unskilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,3,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Business,Low,Unknown / None,4 - 7 years,4,Male single,,3,Unknown / None,Young,,Own,2,Skilled,1,Yes,No,Low Risk
+2,Short,Existing credits paid back,Education,Low,Unknown / None,1 - 4 years,4,Male single,,4,Unknown / None,Old,,Free,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,3,Car or other,Young,,Rent,1,Skilled,2,Yes,No,High Risk
+4,Short,Existing credits paid back,Business,Low,< 100 DM,4 - 7 years,4,Male single,,1,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Education,Low,100 <= savings < 500,1 - 4 years,4,Female divorced/separated/married,,2,Real estate,Young,,Own,2,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,< 1 year,4,Male married/widowed,,3,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Business,Low,100 <= savings < 500,4 - 7 years,4,Male single,,1,Real estate,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,4,Male divorced/separated,,2,Real estate,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+3,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,3,Male single,,1,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,1,Male single,Co-applicant,4,Real estate,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Medium,Unknown / None,>= 7 years,3,Male single,,4,Car or other,Middle,,Own,1,Highly skilled,1,Yes,No,Low Risk
+1,Short,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,3,Real estate,Old,,Own,4,Unskilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,2,Male single,,4,Real estate,Old,,Own,2,Unskilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Male married/widowed,,2,Real estate,Young,,Own,1,Skilled,2,No,Yes,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,3,Building society savings,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Existing credits paid back,Car (new),Low,Unknown / None,1 - 4 years,4,Male single,,4,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Car (new),Low,500 <= savings < 1000,1 - 4 years,4,Male single,,4,Real estate,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Unknown / None,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Medium,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,1,Real estate,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Delay in paying,Car (new),Medium,< 100 DM,>= 7 years,2,Male single,,2,Car or other,Middle,,Own,2,Skilled,1,Yes,No,Low Risk
+1,Short,Delay in paying,Car (new),Low,< 100 DM,1 - 4 years,4,Male single,,2,Real estate,Middle,,Own,2,Unskilled,1,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,100 <= savings < 500,1 - 4 years,1,Female divorced/separated/married,,1,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Male single,,4,Car or other,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,1,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Delay in paying,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Old,,Free,2,Skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Furniture/equipment,Low,>= 1000 DM,4 - 7 years,3,Male single,,2,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Medium,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,4,Car or other,Old,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,4 - 7 years,4,Male single,,2,Car or other,Young,Stores,Own,1,Skilled,2,Yes,No,Low Risk
+3,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,2,Male single,,3,Car or other,Young,,Own,1,Highly skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,4 - 7 years,2,Male single,,1,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (used),Low,< 100 DM,>= 7 years,1,Male single,,4,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,>= 1000 DM,>= 7 years,4,Male single,,4,Real estate,Old,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male married/widowed,,3,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,2,Car or other,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,1 - 4 years,2,Male single,,2,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+3,Short,Critical account,Car (used),Low,500 <= savings < 1000,1 - 4 years,2,Male single,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,Unknown / None,>= 7 years,4,Male single,,4,Building society savings,Old,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,>= 1000 DM,1 - 4 years,1,Male single,,3,Building society savings,Young,,Own,1,Skilled,1,No,No,Low Risk
+4,Short,Critical account,Car (used),Low,< 100 DM,4 - 7 years,4,Male single,,3,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Medium,Delay in paying,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,4,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,>= 1000 DM,4 - 7 years,3,Female divorced/separated/married,,4,Real estate,Middle,,Own,2,Unskilled,2,Yes,No,Low Risk
+2,Short,Delay in paying,Car (new),Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,4,Car or other,Middle,,Rent,2,Skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Car (new),Low,100 <= savings < 500,< 1 year,4,Male single,,1,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,2,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,No credit history,Business,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,1,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,3,Male single,,4,Real estate,Old,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Furniture/equipment,Medium,< 100 DM,>= 7 years,2,Male single,,1,Unknown / None,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Critical account,Furniture/equipment,Low,>= 1000 DM,< 1 year,4,Male single,,2,Real estate,Young,Stores,Own,2,Unskilled,1,Yes,No,Low Risk
+2,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Unskilled,2,No,No,Low Risk
+2,Medium,Delay in paying,Business,Low,< 100 DM,1 - 4 years,2,Male divorced/separated,,2,Real estate,Young,Stores,Own,2,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,3,Male single,,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,Critical account,Business,Low,< 100 DM,4 - 7 years,2,Female divorced/separated/married,,1,Real estate,Middle,Bank,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,>= 1000 DM,1 - 4 years,4,Male single,,4,Real estate,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Business,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,4,Building society savings,Young,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Delay in paying,Business,Low,Unknown / None,1 - 4 years,4,Male single,,2,Building society savings,Young,Bank,Own,2,Highly skilled,2,Yes,No,Low Risk
+2,Medium,Delay in paying,Car (new),Medium,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,2,Building society savings,Middle,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male married/widowed,Guarantor,2,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,2,Male single,Guarantor,2,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Business,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,Guarantor,2,Real estate,Young,,Own,2,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,3,Male married/widowed,,4,Real estate,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,3,Car or other,Middle,Stores,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Education,Low,Unknown / None,4 - 7 years,4,Female divorced/separated/married,,2,Car or other,Old,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,2,Female divorced/separated/married,,1,Building society savings,Middle,Bank,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Car (new),Low,500 <= savings < 1000,4 - 7 years,3,Male divorced/separated,,3,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,4 - 7 years,2,Male single,,3,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,3,Male single,,3,Real estate,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+2,Short,Critical account,Furniture/equipment,Low,< 100 DM,4 - 7 years,4,Male single,,3,Car or other,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,>= 1000 DM,1 - 4 years,2,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Education,Low,500 <= savings < 1000,>= 7 years,4,Male single,,2,Car or other,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,500 <= savings < 1000,>= 7 years,4,Male single,,3,Unknown / None,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Unknown / None,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Medium,Critical account,Car (used),Low,< 100 DM,>= 7 years,2,Male single,,2,Building society savings,Young,,Own,2,Skilled,1,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Male married/widowed,,3,Car or other,Young,,Rent,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,2,Car or other,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,4,Male single,,3,Building society savings,Middle,Stores,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,< 1 year,3,Male married/widowed,,3,Unknown / None,Middle,,Free,3,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Domestic appliances,Low,Unknown / None,< 1 year,4,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,500 <= savings < 1000,1 - 4 years,1,Male single,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,2,Male married/widowed,,2,Building society savings,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,100 <= savings < 500,>= 7 years,3,Male single,,4,Real estate,Young,,Own,1,Skilled,1,Yes,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,3,Male single,,4,Real estate,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,3,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,4,Car or other,Old,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,>= 1000 DM,1 - 4 years,4,Male divorced/separated,,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,>= 1000 DM,>= 7 years,4,Male single,,4,Real estate,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,All credits paid back,Car (new),Low,100 <= savings < 500,4 - 7 years,2,Male single,,3,Car or other,Young,Bank,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Retraining,Low,Unknown / None,4 - 7 years,1,Female divorced/separated/married,,3,Building society savings,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+3,Short,Critical account,Radio/TV,Low,Unknown / None,1 - 4 years,3,Male single,,2,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Medium,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,2,Female divorced/separated/married,,4,Real estate,Middle,,Own,1,Unskilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Education,Low,Unknown / None,>= 7 years,1,Male single,,4,Real estate,Old,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,2,Female divorced/separated/married,,4,Car or other,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,Unemployed,2,Male single,,3,Car or other,Young,,Own,1,Highly skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Radio/TV,Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,Unknown / None,>= 7 years,4,Male single,,4,Real estate,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (used),Low,Unknown / None,>= 7 years,4,Male single,,4,Unknown / None,Middle,Bank,Free,1,Skilled,1,Yes,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,>= 7 years,2,Male divorced/separated,,4,Building society savings,Middle,,Own,1,Unskilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Business,Low,< 100 DM,4 - 7 years,2,Male single,,4,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,2,Building society savings,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+3,Short,All credits paid back,Radio/TV,Low,>= 1000 DM,1 - 4 years,3,Female divorced/separated/married,,3,Real estate,Middle,,Rent,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,,2,Car or other,Young,Bank,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Critical account,Car (used),Medium,Unknown / None,4 - 7 years,2,Male single,,1,Unknown / None,Young,,Free,2,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,4 - 7 years,2,Male single,,3,Car or other,Middle,Bank,Own,2,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,1 - 4 years,3,Male divorced/separated,,1,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,2,Real estate,Young,,Own,2,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,1,Car or other,Young,Bank,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,3,Male single,Co-applicant,2,Car or other,Middle,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,All credits paid back,Business,Medium,< 100 DM,>= 7 years,4,Female divorced/separated/married,,3,Unknown / None,Old,,Rent,1,Skilled,2,No,No,High Risk
+2,Short,Critical account,Furniture/equipment,Low,< 100 DM,>= 7 years,1,Male single,,4,Car or other,Young,,Rent,3,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,2,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+3,Short,Critical account,Business,Low,>= 1000 DM,1 - 4 years,2,Male divorced/separated,,4,Real estate,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,4 - 7 years,2,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Male single,,2,Unknown / None,Young,,Free,1,Skilled,2,Yes,No,Low Risk
+3,Short,Existing credits paid back,Education,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,4,Male single,,4,Car or other,Middle,,Own,3,Skilled,2,Yes,No,Low Risk
+4,Medium,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Business,Low,< 100 DM,1 - 4 years,3,Male single,,2,Real estate,Old,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,4 - 7 years,2,Female divorced/separated/married,Co-applicant,3,Car or other,Young,Bank,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,1,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+3,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,1,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,2,Real estate,Young,,Own,1,Unskilled,2,No,No,High Risk
+3,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,3,Male married/widowed,,4,Real estate,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,3,Male single,,1,Car or other,Young,Bank,Own,1,Skilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male single,,2,Car or other,Young,,Rent,2,Highly skilled,1,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,3,Male divorced/separated,,2,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Business,Low,100 <= savings < 500,1 - 4 years,3,Male single,,3,Building society savings,Young,,Own,2,Unskilled,2,Yes,No,Low Risk
+2,Short,Critical account,Car (used),Low,100 <= savings < 500,< 1 year,3,Male single,,4,Building society savings,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Business,Low,< 100 DM,4 - 7 years,4,Male single,,1,Car or other,Young,Stores,Own,2,Skilled,2,Yes,No,Low Risk
+4,Medium,Delay in paying,Radio/TV,High,500 <= savings < 1000,4 - 7 years,4,Male single,,1,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Domestic appliances,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Medium,No credit history,Business,Medium,Unknown / None,< 1 year,2,Male single,,3,Car or other,Young,Bank,Own,3,Skilled,2,No,No,Low Risk
+4,Medium,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Business,Low,< 100 DM,4 - 7 years,3,Female divorced/separated/married,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Business,Low,100 <= savings < 500,4 - 7 years,2,Male single,,2,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,>= 7 years,4,Male single,,3,Car or other,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,3,Male single,,2,Car or other,Young,,Own,1,Skilled,1,Yes,No,Low Risk
+2,Medium,Existing credits paid back,Education,Low,< 100 DM,4 - 7 years,3,Male single,,1,Car or other,Young,,Own,2,Skilled,1,No,No,Low Risk
+3,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,1 - 4 years,1,Female divorced/separated/married,,1,Car or other,Young,Bank,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,1 - 4 years,4,Male single,,4,Car or other,Young,,Rent,1,Highly skilled,2,Yes,No,Low Risk
+2,Medium,Existing credits paid back,Education,Low,Unknown / None,1 - 4 years,2,Male married/widowed,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,Existing credits paid back,Car (new),Medium,Unknown / None,4 - 7 years,1,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,< 1 year,4,Male single,,1,Building society savings,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,3,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Critical account,Car (used),Medium,< 100 DM,4 - 7 years,3,Male single,,2,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Medium,< 100 DM,4 - 7 years,1,Male single,,3,Unknown / None,Middle,,Own,2,Highly skilled,1,Yes,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,2,Unknown / None,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,4 - 7 years,3,Male single,,1,Unknown / None,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,All credits paid back,Business,Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,1,Real estate,Young,Stores,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,4,Male single,,2,Car or other,Young,Bank,Own,1,Highly skilled,2,No,No,Low Risk
+4,Medium,All credits paid back,Car (used),Medium,Unknown / None,< 1 year,3,Male single,Guarantor,4,Real estate,Middle,Bank,Rent,2,Skilled,1,Yes,No,Low Risk
+3,Short,All credits paid back,Radio/TV,Low,Unknown / None,4 - 7 years,4,Male single,,4,Car or other,Middle,Bank,Own,1,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Medium,Unknown / None,< 1 year,1,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Skilled,2,Yes,Yes,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,Unknown / None,4 - 7 years,2,Male single,Co-applicant,2,Real estate,Young,,Own,1,Unskilled,2,No,Yes,Low Risk
+2,Short,Existing credits paid back,Business,Low,< 100 DM,>= 7 years,1,Male single,Co-applicant,1,Real estate,Young,Bank,Own,1,Highly skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Rent,1,Highly skilled,1,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,< 1 year,4,Male single,,1,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,All credits paid back,Car (new),Medium,Unknown / None,Unemployed,4,Male single,Co-applicant,4,Unknown / None,Young,,Free,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,>= 7 years,3,Male single,Co-applicant,4,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+3,Short,Existing credits paid back,Car (new),Low,Unknown / None,< 1 year,1,Male single,,2,Real estate,Young,,Own,1,Unskilled,1,No,Yes,Low Risk
+1,Short,All credits paid back,Furniture/equipment,Low,500 <= savings < 1000,1 - 4 years,4,Male single,,4,Real estate,Young,Stores,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,All credits paid back,Furniture/equipment,Low,500 <= savings < 1000,1 - 4 years,4,Male single,,4,Real estate,Young,Stores,Own,1,Skilled,2,Yes,No,Low Risk
+3,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,1,Male single,,1,Real estate,Old,,Own,3,Unemployed,1,No,Yes,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,Unknown / None,< 1 year,4,Male single,,2,Real estate,Young,,Own,1,Unemployed,2,No,No,Low Risk
+3,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,1,Male single,Guarantor,1,Building society savings,Young,,Own,1,Unskilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,Unknown / None,< 1 year,1,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Skilled,2,No,No,Low Risk
+3,Short,Existing credits paid back,Car (new),Low,>= 1000 DM,< 1 year,2,Male married/widowed,,2,Real estate,Young,,Own,1,Unemployed,2,No,Yes,Low Risk
+1,Medium,Existing credits paid back,Car (new),Medium,< 100 DM,< 1 year,1,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Unskilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,>= 7 years,4,Male single,Co-applicant,2,Building society savings,Middle,,Own,1,Unskilled,2,No,Yes,Low Risk
+1,Short,All credits paid back,Radio/TV,Low,< 100 DM,< 1 year,3,Male single,Co-applicant,4,Unknown / None,Young,Bank,Free,1,Highly skilled,2,Yes,No,Low Risk
+3,Medium,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,4,Building society savings,Middle,Stores,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Delay in paying,Car (used),Low,< 100 DM,4 - 7 years,3,Male single,,3,Car or other,Young,,Own,2,Unskilled,2,Yes,No,Low Risk
+4,Medium,Delay in paying,Car (used),Medium,>= 1000 DM,1 - 4 years,2,Male single,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,>= 1000 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,>= 1000 DM,1 - 4 years,4,Female divorced/separated/married,,1,Real estate,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,1 - 4 years,3,Male single,,4,Car or other,Young,,Own,1,Unskilled,1,Yes,No,Low Risk
+4,Short,Delay in paying,Car (new),Low,< 100 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Business,Low,>= 1000 DM,>= 7 years,4,Female divorced/separated/married,,4,Real estate,Young,Bank,Own,1,Unskilled,2,No,No,Low Risk
+2,Medium,All credits paid back,Business,Low,100 <= savings < 500,4 - 7 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,1,Real estate,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,No credit history,Radio/TV,Low,< 100 DM,>= 7 years,4,Male married/widowed,,4,Car or other,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Car (used),Medium,100 <= savings < 500,>= 7 years,4,Male single,,2,Car or other,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+1,Medium,Existing credits paid back,Car (used),Low,< 100 DM,1 - 4 years,4,Male divorced/separated,,4,Building society savings,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,2,Male married/widowed,,3,Car or other,Young,Bank,Own,1,Unskilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,,4,Car or other,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male single,,2,Real estate,Middle,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Old,Bank,Rent,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,3,Real estate,Young,,Rent,1,Unskilled,1,No,No,Low Risk
+4,Medium,Existing credits paid back,Car (used),Low,500 <= savings < 1000,1 - 4 years,4,Male single,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,500 <= savings < 1000,1 - 4 years,2,Male married/widowed,,2,Building society savings,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+4,Long,Existing credits paid back,Car (new),Medium,< 100 DM,>= 7 years,2,Male single,,4,Building society savings,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Business,Low,100 <= savings < 500,1 - 4 years,3,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,500 <= savings < 1000,>= 7 years,4,Male single,,3,Building society savings,Young,Bank,Own,2,Highly skilled,2,Yes,No,Low Risk
+4,Short,All credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,2,Male single,,4,Building society savings,Middle,Bank,Own,1,Unskilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,100 <= savings < 500,4 - 7 years,3,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Furniture/equipment,Low,100 <= savings < 500,1 - 4 years,2,Male single,,3,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Repairs,Low,100 <= savings < 500,1 - 4 years,3,Female divorced/separated/married,,2,Real estate,Young,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,Unknown / None,1 - 4 years,1,Male single,,3,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Delay in paying,Car (new),Low,Unknown / None,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,1,Skilled,1,No,No,Low Risk
+2,Short,Delay in paying,Repairs,Low,< 100 DM,1 - 4 years,2,Male single,,4,Real estate,Middle,,Own,1,Unskilled,1,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Critical account,Car (used),Low,>= 1000 DM,>= 7 years,4,Male single,,2,Car or other,Middle,,Own,2,Highly skilled,2,Yes,No,Low Risk
+3,Short,Existing credits paid back,Business,Low,< 100 DM,4 - 7 years,2,Male single,,4,Building society savings,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+1,Short,Delay in paying,Furniture/equipment,Low,< 100 DM,>= 7 years,1,Female divorced/separated/married,,4,Building society savings,Young,,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,3,Real estate,Young,,Rent,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,3,Male single,,4,Real estate,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Business,Low,< 100 DM,4 - 7 years,1,Male single,,4,Real estate,Old,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,2,Male single,,3,Building society savings,Young,Bank,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Car or other,Young,,Own,2,Highly skilled,2,No,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,1,Male single,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,3,Car or other,Young,,Own,1,Skilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,3,Male single,,4,Car or other,Middle,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Own,1,Unskilled,1,No,No,Low Risk
+4,Medium,Existing credits paid back,Car (new),Low,500 <= savings < 1000,>= 7 years,4,Male single,,4,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,,4,Building society savings,Young,,Rent,2,Unskilled,2,No,No,Low Risk
+4,Short,All credits paid back,Radio/TV,Low,100 <= savings < 500,>= 7 years,4,Male single,,4,Car or other,Young,Bank,Own,1,Unskilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,500 <= savings < 1000,1 - 4 years,2,Male single,,4,Building society savings,Middle,,Rent,1,Skilled,2,No,No,Low Risk
+4,Medium,Delay in paying,Furniture/equipment,Medium,500 <= savings < 1000,4 - 7 years,2,Female divorced/separated/married,,4,Car or other,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Repairs,Low,500 <= savings < 1000,4 - 7 years,2,Male married/widowed,,4,Real estate,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,500 <= savings < 1000,>= 7 years,3,Male single,,4,Building society savings,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,All credits paid back,Retraining,Low,500 <= savings < 1000,1 - 4 years,4,Female divorced/separated/married,,3,Real estate,Young,,Own,1,Unskilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,,2,Car or other,Middle,Bank,Rent,1,Highly skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Business,Low,< 100 DM,4 - 7 years,2,Male single,,3,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+3,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,>= 7 years,2,Male divorced/separated,,4,Real estate,Middle,,Own,1,Skilled,2,No,No,Low Risk
+3,Short,Delay in paying,Radio/TV,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,,1,Building society savings,Young,Bank,Own,1,Skilled,2,No,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,2,Car or other,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,Unknown / None,< 1 year,1,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,Low Risk
+2,Short,Delay in paying,Car (new),Low,< 100 DM,1 - 4 years,1,Male divorced/separated,,4,Building society savings,Middle,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,>= 1000 DM,< 1 year,4,Female divorced/separated/married,,2,Car or other,Young,Bank,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,Unemployed,1,Female divorced/separated/married,,4,Real estate,Middle,,Own,1,Unemployed,2,Yes,No,Low Risk
+1,Short,Critical account,Radio/TV,Low,500 <= savings < 1000,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,1,Male single,,2,Real estate,Young,,Own,1,Skilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,500 <= savings < 1000,>= 7 years,2,Male single,,4,Unknown / None,Middle,,Free,1,Unskilled,2,No,No,Low Risk
+4,Short,Delay in paying,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male married/widowed,,3,Real estate,Young,Bank,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Education,Low,Unknown / None,< 1 year,2,Male single,,1,Building society savings,Young,,Own,2,Unskilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,500 <= savings < 1000,1 - 4 years,2,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,1 - 4 years,1,Male single,,2,Real estate,Young,,Own,2,Unskilled,1,No,No,Low Risk
+2,Short,Delay in paying,Business,Low,100 <= savings < 500,>= 7 years,1,Male divorced/separated,,2,Car or other,Young,Bank,Own,2,Skilled,1,No,No,Low Risk
+4,Short,Delay in paying,Furniture/equipment,Low,>= 1000 DM,4 - 7 years,3,Female divorced/separated/married,,2,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Car (used),Medium,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,2,Building society savings,Young,Bank,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,100 <= savings < 500,< 1 year,2,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Business,Low,100 <= savings < 500,1 - 4 years,1,Male single,,2,Real estate,Young,,Own,2,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,>= 1000 DM,< 1 year,1,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+4,Short,Delay in paying,Radio/TV,Low,< 100 DM,Unemployed,2,Male married/widowed,,3,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,All credits paid back,Retraining,Low,< 100 DM,>= 7 years,4,Male married/widowed,,1,Car or other,Middle,Bank,Own,1,Unskilled,2,No,No,Low Risk
+3,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male single,,2,Car or other,Young,Bank,Own,1,Skilled,2,No,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,1 - 4 years,1,Male single,,2,Real estate,Young,,Own,2,Skilled,1,No,No,Low Risk
+3,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,2,Real estate,Young,,Own,1,Unskilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,>= 7 years,4,Male married/widowed,,4,Real estate,Middle,,Rent,1,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,1,Male single,,2,Real estate,Young,Bank,Own,1,Unskilled,2,Yes,No,Low Risk
+4,Short,All credits paid back,Car (new),Low,Unknown / None,1 - 4 years,1,Male single,Guarantor,2,Real estate,Young,Stores,Own,1,Unskilled,1,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Highly skilled,2,Yes,No,Low Risk
+4,Long,No credit history,Car (used),Medium,Unknown / None,1 - 4 years,2,Male single,,2,Building society savings,Middle,,Own,1,Unskilled,1,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,4,Real estate,Old,,Own,4,Skilled,2,No,No,Low Risk
+4,Medium,Critical account,Car (used),Low,Unknown / None,>= 7 years,4,Male single,,3,Car or other,Middle,,Own,2,Skilled,1,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,>= 1000 DM,1 - 4 years,2,Female divorced/separated/married,,2,Real estate,Middle,Bank,Own,2,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Male single,,1,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,3,Male single,,4,Real estate,Middle,,Own,1,Unskilled,1,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,Unknown / None,>= 7 years,4,Male single,,4,Unknown / None,Middle,Bank,Free,1,Skilled,1,No,No,Low Risk
+4,Short,All credits paid back,Business,Low,< 100 DM,4 - 7 years,4,Male single,,4,Car or other,Middle,Bank,Own,1,Skilled,2,Yes,No,Low Risk
+3,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,3,Male married/widowed,,1,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,2,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,No credit history,Car (new),Low,100 <= savings < 500,1 - 4 years,4,Male single,,1,Unknown / None,Young,Bank,Rent,1,Skilled,2,No,Yes,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,500 <= savings < 1000,1 - 4 years,3,Male single,,2,Unknown / None,Middle,,Rent,1,Unskilled,1,No,Yes,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,1 - 4 years,4,Female divorced/separated/married,Co-applicant,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Business,Low,>= 1000 DM,>= 7 years,1,Male divorced/separated,,2,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Furniture/equipment,Low,Unknown / None,< 1 year,2,Female divorced/separated/married,Co-applicant,3,Real estate,Young,,Rent,2,Skilled,2,No,Yes,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,3,Male single,,2,Real estate,Young,,Own,1,Unskilled,1,No,Yes,Low Risk
+4,Short,Critical account,Car (new),Low,>= 1000 DM,>= 7 years,4,Female divorced/separated/married,,4,Real estate,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,1 - 4 years,3,Male single,,2,Real estate,Young,,Rent,1,Unskilled,2,No,Yes,Low Risk
+3,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,1,Male single,,4,Real estate,Middle,,Own,2,Skilled,1,No,Yes,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,4 - 7 years,4,Male single,,3,Building society savings,Young,,Own,1,Skilled,2,No,Yes,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,3,Male single,,4,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Education,Low,Unknown / None,1 - 4 years,3,Female divorced/separated/married,,2,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,1,Female divorced/separated/married,,2,Car or other,Young,,Rent,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,4 - 7 years,4,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Car (new),Low,Unknown / None,>= 7 years,4,Male married/widowed,,4,Car or other,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,4,Male single,Co-applicant,1,Building society savings,Young,,Own,1,Unskilled,2,No,Yes,Low Risk
+1,Short,Critical account,Repairs,Low,100 <= savings < 500,>= 7 years,3,Male single,Guarantor,4,Real estate,Middle,,Own,2,Skilled,1,No,Yes,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,4 - 7 years,4,Male single,Co-applicant,3,Building society savings,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,100 <= savings < 500,1 - 4 years,1,Male single,Co-applicant,2,Real estate,Young,,Own,1,Skilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,>= 1000 DM,4 - 7 years,3,Male single,,2,Building society savings,Middle,,Own,1,Skilled,2,No,Yes,Low Risk
+4,Medium,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,3,Male single,,2,Car or other,Middle,,Own,2,Skilled,1,Yes,No,Low Risk
+1,Short,All credits paid back,Car (used),Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,Guarantor,4,Car or other,Young,Bank,Rent,1,Skilled,2,No,Yes,Low Risk
+4,Short,Critical account,Car (used),Low,Unknown / None,Unemployed,2,Male single,,4,Unknown / None,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,1 - 4 years,1,Male single,Guarantor,2,Real estate,Young,,Rent,1,Skilled,1,No,Yes,Low Risk
+4,Short,Critical account,Car (new),Low,100 <= savings < 500,4 - 7 years,4,Female divorced/separated/married,,3,Car or other,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,1,Male single,,4,Building society savings,Middle,,Own,1,Skilled,2,Yes,Yes,Low Risk
+4,Short,Existing credits paid back,Education,Low,500 <= savings < 1000,>= 7 years,4,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,2,Yes,No,Low Risk
+3,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Old,,Free,2,Skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,4,Male single,,2,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Education,Low,< 100 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,Unknown / None,1 - 4 years,2,Male married/widowed,,1,Car or other,Young,,Own,2,Skilled,2,No,Yes,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,>= 1000 DM,4 - 7 years,4,Female divorced/separated/married,,3,Car or other,Young,,Own,1,Skilled,1,Yes,No,Low Risk
+4,Medium,Critical account,Business,Medium,Unknown / None,>= 7 years,4,Male divorced/separated,,2,Car or other,Middle,Bank,Own,2,Highly skilled,1,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,Co-applicant,2,Real estate,Young,,Own,2,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,>= 7 years,2,Male single,,4,Unknown / None,Middle,Bank,Free,1,Skilled,1,Yes,No,Low Risk
+4,Medium,Critical account,Car (used),Medium,Unknown / None,>= 7 years,2,Male single,,4,Unknown / None,Middle,,Free,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (used),Low,< 100 DM,1 - 4 years,3,Male single,Guarantor,4,Unknown / None,Old,Bank,Own,1,Skilled,1,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,3,Male single,,4,Real estate,Young,,Own,2,Unskilled,1,No,Yes,Low Risk
+3,Short,Existing credits paid back,Car (new),Low,< 100 DM,>= 7 years,3,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Highly skilled,2,No,No,Low Risk
+4,Short,Critical account,Car (new),Low,Unknown / None,>= 7 years,1,Female divorced/separated/married,,4,Car or other,Old,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Old,,Own,2,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Car or other,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,Unknown / None,1 - 4 years,1,Male married/widowed,,2,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,2,Real estate,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,1 - 4 years,4,Male single,,4,Unknown / None,Young,,Free,1,Skilled,2,Yes,No,Low Risk
+4,Short,No credit history,Furniture/equipment,Low,< 100 DM,>= 7 years,2,Male single,,4,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+3,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,1 - 4 years,3,Female divorced/separated/married,,3,Car or other,Old,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,No credit history,Retraining,Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Own,1,Unskilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male divorced/separated,,2,Real estate,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Business,Medium,< 100 DM,1 - 4 years,2,Male married/widowed,,2,Car or other,Young,Stores,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,>= 1000 DM,>= 7 years,2,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Car (used),Medium,>= 1000 DM,>= 7 years,2,Female divorced/separated/married,,4,Unknown / None,Young,,Rent,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Domestic appliances,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Furniture/equipment,Low,100 <= savings < 500,4 - 7 years,4,Male single,,3,Real estate,Young,,Own,2,Highly skilled,2,No,No,Low Risk
+1,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,3,Male single,,2,Car or other,Young,,Own,1,Highly skilled,2,No,No,Low Risk
+1,Short,No credit history,Repairs,Low,< 100 DM,4 - 7 years,4,Male single,,3,Real estate,Young,,Own,2,Skilled,2,No,No,High Risk
+2,Medium,Delay in paying,Car (used),Low,< 100 DM,>= 7 years,1,Male single,,2,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Repairs,Low,100 <= savings < 500,1 - 4 years,4,Male single,Guarantor,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Critical account,Radio/TV,Medium,Unknown / None,4 - 7 years,2,Male single,,3,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,4 - 7 years,1,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+4,Long,Critical account,Car (new),High,Unknown / None,>= 7 years,2,Male single,,4,Unknown / None,Old,Bank,Free,1,Highly skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,4,Male married/widowed,,4,Real estate,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+4,Medium,Critical account,Furniture/equipment,Low,500 <= savings < 1000,1 - 4 years,4,Male single,,4,Real estate,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,3,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,1,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Car (new),Medium,< 100 DM,1 - 4 years,1,Male single,,4,Building society savings,Middle,,Own,1,Unskilled,1,No,No,Low Risk
+3,Short,Existing credits paid back,Domestic appliances,Low,< 100 DM,1 - 4 years,2,Male single,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (used),Low,Unknown / None,>= 7 years,2,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,< 100 DM,4 - 7 years,2,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+3,Short,Critical account,Car (new),Low,500 <= savings < 1000,Unemployed,2,Male single,,4,Unknown / None,Old,Bank,Free,3,Unemployed,2,No,No,Low Risk
+3,Short,Critical account,Education,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,4,Building society savings,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,4,Unknown / None,Young,,Free,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,100 <= savings < 500,1 - 4 years,4,Male single,,1,Car or other,Young,Stores,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,,4,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Delay in paying,Radio/TV,Medium,< 100 DM,< 1 year,1,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,2,Real estate,Young,Bank,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Car (used),Low,< 100 DM,1 - 4 years,4,Male married/widowed,,4,Real estate,Middle,,Rent,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,2,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,Existing credits paid back,Business,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Building society savings,Young,,Own,1,Skilled,1,Yes,No,Low Risk
+2,Short,Existing credits paid back,Business,Low,100 <= savings < 500,4 - 7 years,3,Male single,,4,Real estate,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (used),Low,500 <= savings < 1000,Unemployed,1,Female divorced/separated/married,,2,Building society savings,Young,,Rent,1,Unemployed,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Building society savings,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,3,Male single,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Medium,Existing credits paid back,Others,Low,Unknown / None,Unemployed,3,Male single,,4,Unknown / None,Middle,Bank,Free,1,Unemployed,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,< 100 DM,1 - 4 years,3,Male single,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Business,Low,< 100 DM,1 - 4 years,2,Male married/widowed,,1,Real estate,Young,Bank,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Business,Low,>= 1000 DM,< 1 year,3,Male married/widowed,,3,Real estate,Young,Bank,Own,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Existing credits paid back,Radio/TV,Medium,Unknown / None,4 - 7 years,2,Male married/widowed,,4,Building society savings,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,Unemployed,2,Female divorced/separated/married,,4,Real estate,Old,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Business,Low,Unknown / None,1 - 4 years,4,Male single,,4,Real estate,Young,,Own,2,Skilled,1,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,4,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Business,Low,500 <= savings < 1000,1 - 4 years,4,Male single,,2,Car or other,Middle,,Own,2,Skilled,1,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,500 <= savings < 1000,>= 7 years,4,Male single,,4,Building society savings,Middle,,Own,2,Skilled,1,Yes,No,Low Risk
+4,Medium,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,100 <= savings < 500,Unemployed,4,Female divorced/separated/married,,4,Real estate,Old,,Own,3,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Car (used),Low,>= 1000 DM,1 - 4 years,4,Male single,,2,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,1 - 4 years,4,Male single,,3,Building society savings,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,2,Skilled,1,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male married/widowed,,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Car (new),Low,>= 1000 DM,1 - 4 years,4,Female divorced/separated/married,,4,Car or other,Middle,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Car (new),Low,< 100 DM,Unemployed,2,Male single,,3,Car or other,Old,,Free,3,Unemployed,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,>= 7 years,4,Female divorced/separated/married,,4,Unknown / None,Middle,,Free,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Middle,,Own,3,Skilled,2,No,No,Low Risk
+2,Medium,Delay in paying,Education,Medium,100 <= savings < 500,4 - 7 years,2,Male single,,3,Unknown / None,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Education,Low,< 100 DM,>= 7 years,2,Female divorced/separated/married,,3,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Education,Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,4,Building society savings,Young,Bank,Rent,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,Unknown / None,1 - 4 years,1,Female divorced/separated/married,,2,Real estate,Young,,Own,1,Unskilled,2,No,No,Low Risk
+4,Medium,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Delay in paying,Repairs,Low,>= 1000 DM,>= 7 years,4,Male single,,4,Unknown / None,Middle,,Free,2,Skilled,1,No,No,High Risk
+2,Short,Critical account,Business,Low,500 <= savings < 1000,1 - 4 years,2,Male single,,4,Car or other,Young,Bank,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Business,Low,Unknown / None,1 - 4 years,4,Male married/widowed,,4,Real estate,Young,Bank,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Business,Low,Unknown / None,>= 7 years,4,Male single,,4,Unknown / None,Old,,Rent,1,Unskilled,2,No,No,Low Risk
+4,Short,Delay in paying,Radio/TV,Low,Unknown / None,>= 7 years,3,Male single,,4,Unknown / None,Young,,Free,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Education,Low,100 <= savings < 500,1 - 4 years,4,Female divorced/separated/married,,3,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Radio/TV,Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Medium,Critical account,Business,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,Stores,Own,4,Highly skilled,1,Yes,No,Low Risk
+2,Short,Critical account,Business,Low,< 100 DM,Unemployed,3,Male married/widowed,,3,Car or other,Middle,,Own,3,Unemployed,1,Yes,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Building society savings,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Delay in paying,Business,Low,< 100 DM,4 - 7 years,3,Male single,,4,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Medium,Critical account,Furniture/equipment,High,Unknown / None,4 - 7 years,4,Male single,,4,Building society savings,Young,,Own,2,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,1 - 4 years,4,Male married/widowed,,2,Real estate,Middle,,Rent,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Male single,,2,Real estate,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,4,Unknown / None,Young,,Free,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Car (used),Low,< 100 DM,1 - 4 years,2,Male single,,2,Unknown / None,Young,,Free,1,Highly skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,1 - 4 years,4,Female divorced/separated/married,,3,Real estate,Old,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,1 - 4 years,4,Male single,,3,Real estate,Old,,Own,1,Unskilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,4 - 7 years,4,Male single,,4,Car or other,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Medium,< 100 DM,Unemployed,2,Male single,,4,Unknown / None,Old,Bank,Free,1,Highly skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Education,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,,4,Unknown / None,Young,,Free,2,Skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,Unemployed,1,Male single,,4,Unknown / None,Young,,Free,1,Skilled,2,No,No,Low Risk
+2,Long,Delay in paying,Radio/TV,Medium,Unknown / None,1 - 4 years,1,Male single,,1,Real estate,Young,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Delay in paying,Others,Low,< 100 DM,1 - 4 years,2,Male single,,3,Car or other,Young,Bank,Own,2,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Business,Low,>= 1000 DM,1 - 4 years,4,Male single,,2,Building society savings,Young,,Own,1,Unskilled,2,Yes,No,Low Risk
+2,Short,Delay in paying,Furniture/equipment,Low,Unknown / None,< 1 year,4,Male single,,2,Building society savings,Young,Bank,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,Unknown / None,< 1 year,2,Male married/widowed,,4,Car or other,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (used),Medium,Unknown / None,Unemployed,1,Male divorced/separated,,4,Real estate,Old,,Own,1,Highly skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Furniture/equipment,Medium,< 100 DM,Unemployed,4,Male single,,4,Building society savings,Middle,Stores,Own,2,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,100 <= savings < 500,< 1 year,1,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Medium,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,3,Male single,,2,Car or other,Middle,,Own,1,Unskilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (new),Medium,Unknown / None,Unemployed,1,Female divorced/separated/married,,2,Real estate,Young,,Rent,1,Unemployed,2,No,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,>= 7 years,3,Female divorced/separated/married,,4,Real estate,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (used),Low,Unknown / None,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,500 <= savings < 1000,>= 7 years,1,Female divorced/separated/married,,4,Unknown / None,Young,,Free,1,Skilled,2,No,No,Low Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male single,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Education,Low,< 100 DM,>= 7 years,4,Male single,,4,Building society savings,Middle,Bank,Own,3,Skilled,1,Yes,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Male single,,4,Unknown / None,Middle,Bank,Free,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Business,Medium,Unknown / None,>= 7 years,3,Male single,,2,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,4 - 7 years,1,Female divorced/separated/married,,4,Real estate,Young,Bank,Rent,1,Unskilled,2,No,No,Low Risk
+3,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Retraining,Low,< 100 DM,< 1 year,4,Male married/widowed,,3,Car or other,Young,,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male single,,4,Building society savings,Middle,Bank,Own,3,Skilled,1,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,< 1 year,4,Male single,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Education,Low,< 100 DM,>= 7 years,2,Female divorced/separated/married,,4,Unknown / None,Old,Bank,Free,3,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Repairs,Low,< 100 DM,Unemployed,2,Female divorced/separated/married,,4,Car or other,Old,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Existing credits paid back,Repairs,Low,Unknown / None,>= 7 years,4,Male single,,4,Building society savings,Middle,,Own,4,Skilled,1,Yes,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,4 - 7 years,2,Female divorced/separated/married,,4,Real estate,Middle,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Delay in paying,Business,Low,< 100 DM,1 - 4 years,1,Male single,,2,Unknown / None,Young,,Free,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,Unknown / None,>= 7 years,2,Male single,,4,Building society savings,Middle,,Rent,1,Skilled,2,Yes,Yes,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,>= 1000 DM,4 - 7 years,3,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Business,Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,2,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,3,Male divorced/separated,,2,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Furniture/equipment,Low,< 100 DM,>= 7 years,3,Female divorced/separated/married,,4,Building society savings,Young,,Own,1,Skilled,2,Yes,Yes,Low Risk
+4,Short,Existing credits paid back,Business,Low,< 100 DM,1 - 4 years,2,Male married/widowed,,2,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,< 1 year,2,Male single,,3,Building society savings,Middle,,Own,1,Highly skilled,1,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Male single,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,>= 7 years,2,Male single,,4,Building society savings,Middle,Stores,Own,1,Skilled,2,No,No,Low Risk
+1,Short,No credit history,Business,Low,< 100 DM,4 - 7 years,3,Male single,,1,Building society savings,Young,Bank,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,4,Male married/widowed,Co-applicant,3,Real estate,Middle,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Car (used),Low,< 100 DM,>= 7 years,4,Male single,,3,Real estate,Middle,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,4 - 7 years,4,Male married/widowed,,3,Building society savings,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,2,Male married/widowed,,2,Real estate,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Car (used),Low,Unknown / None,4 - 7 years,3,Male single,,4,Building society savings,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,Unemployed,1,Female divorced/separated/married,,2,Building society savings,Middle,,Own,1,Unemployed,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,3,Male married/widowed,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Male married/widowed,,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Car (new),Low,100 <= savings < 500,4 - 7 years,4,Male married/widowed,,3,Building society savings,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,3,Male single,,2,Building society savings,Middle,,Own,1,Skilled,1,No,No,Low Risk
+4,Short,Critical account,Repairs,Low,< 100 DM,1 - 4 years,4,Male divorced/separated,,2,Real estate,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Medium,< 100 DM,4 - 7 years,3,Male single,,3,Car or other,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,2,Male married/widowed,,2,Real estate,Young,,Rent,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Female divorced/separated/married,,2,Real estate,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (used),Medium,Unknown / None,1 - 4 years,2,Male single,,4,Building society savings,Middle,,Own,2,Highly skilled,1,Yes,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,>= 7 years,3,Male single,,2,Building society savings,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,500 <= savings < 1000,1 - 4 years,1,Male married/widowed,,2,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Education,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,2,Unknown / None,Middle,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Car (new),Low,100 <= savings < 500,< 1 year,4,Male divorced/separated,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,2,Male married/widowed,,1,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,>= 1000 DM,4 - 7 years,2,Female divorced/separated/married,,3,Car or other,Young,,Rent,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,< 1 year,2,Male single,,1,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Delay in paying,Business,Medium,100 <= savings < 500,4 - 7 years,4,Male single,,4,Car or other,Young,,Rent,1,Highly skilled,2,Yes,No,Low Risk
+4,Medium,Existing credits paid back,Education,Low,< 100 DM,1 - 4 years,4,Male single,,4,Unknown / None,Young,Stores,Free,1,Skilled,2,Yes,No,High Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,< 1 year,1,Female divorced/separated/married,,1,Car or other,Middle,,Own,2,Skilled,2,Yes,No,High Risk
+4,Medium,Critical account,Furniture/equipment,Medium,< 100 DM,< 1 year,2,Female divorced/separated/married,,4,Building society savings,Young,,Rent,2,Skilled,2,Yes,No,High Risk
+4,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,High Risk
+4,Medium,Existing credits paid back,Furniture/equipment,Medium,< 100 DM,Unemployed,4,Female divorced/separated/married,,2,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,High Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,< 1 year,4,Female divorced/separated/married,,2,Real estate,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+2,Short,Critical account,Car (used),Low,< 100 DM,Unemployed,4,Male single,,2,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,Low Risk
+4,Medium,Critical account,Radio/TV,Medium,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,2,Car or other,Young,Stores,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male married/widowed,,2,Real estate,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,2,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,2,Unknown / None,Young,,Free,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,1,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,2,Male single,,1,Real estate,Middle,,Own,2,Unskilled,1,No,No,Low Risk
+4,Short,Critical account,Car (used),Low,Unknown / None,4 - 7 years,4,Male single,,4,Car or other,Middle,,Own,2,Skilled,1,Yes,No,Low Risk
+3,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,2,Car or other,Middle,,Rent,1,Unskilled,2,Yes,No,Low Risk
+1,Short,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male married/widowed,,1,Building society savings,Young,,Own,2,Highly skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Car or other,Young,Stores,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,4 - 7 years,1,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,1,No,No,Low Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,4 - 7 years,2,Male single,,1,Real estate,Middle,,Own,3,Unskilled,1,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,2,Building society savings,Middle,,Rent,2,Unskilled,2,Yes,No,Low Risk
+2,Short,No credit history,Furniture/equipment,Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,4,Car or other,Young,Bank,Own,2,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,High Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,Unknown / None,4 - 7 years,4,Male single,,1,Car or other,Middle,,Own,2,Skilled,1,Yes,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Male single,,2,Building society savings,Young,,Own,1,Unskilled,2,No,No,High Risk
+2,Short,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,2,Male single,,1,Real estate,Middle,,Own,3,Unskilled,1,No,No,Low Risk
+2,Short,Existing credits paid back,Business,Low,< 100 DM,< 1 year,3,Male married/widowed,,2,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,1,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+3,Short,Critical account,Radio/TV,Low,Unknown / None,4 - 7 years,4,Male single,,2,Building society savings,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,>= 1000 DM,1 - 4 years,4,Male married/widowed,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,500 <= savings < 1000,4 - 7 years,3,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,3,Male single,,4,Building society savings,Young,,Rent,1,Skilled,1,Yes,No,Low Risk
+4,Short,Critical account,Education,Low,< 100 DM,4 - 7 years,2,Male single,,3,Real estate,Middle,,Own,1,Unskilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,3,Male married/widowed,,2,Real estate,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Retraining,Low,Unknown / None,4 - 7 years,4,Female divorced/separated/married,,3,Building society savings,Middle,,Own,1,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,>= 1000 DM,< 1 year,4,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Delay in paying,Business,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,2,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+2,Medium,No credit history,Car (new),Medium,500 <= savings < 1000,< 1 year,1,Female divorced/separated/married,,1,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Building society savings,Young,Bank,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Low,Unknown / None,Unemployed,2,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Highly skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Business,Low,500 <= savings < 1000,>= 7 years,1,Male married/widowed,,2,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,Unknown / None,< 1 year,2,Male divorced/separated,,4,Real estate,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Car (used),Low,< 100 DM,4 - 7 years,3,Male single,,1,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+2,Long,Existing credits paid back,Car (new),Medium,100 <= savings < 500,< 1 year,4,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Highly skilled,2,No,No,High Risk
+3,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,>= 7 years,4,Female divorced/separated/married,,2,Unknown / None,Middle,,Free,1,Skilled,2,Yes,No,Low Risk
+4,Medium,Delay in paying,Business,Low,100 <= savings < 500,1 - 4 years,2,Male single,,2,Building society savings,Young,,Own,2,Unskilled,2,No,No,Low Risk
+2,Short,Delay in paying,Radio/TV,Low,100 <= savings < 500,4 - 7 years,3,Female divorced/separated/married,,2,Building society savings,Young,,Rent,2,Skilled,2,Yes,No,Low Risk
+2,Medium,Delay in paying,Business,Medium,100 <= savings < 500,4 - 7 years,1,Male single,,3,Building society savings,Young,,Own,2,Unskilled,1,Yes,No,Low Risk
+4,Short,Critical account,Car (new),Low,100 <= savings < 500,1 - 4 years,4,Female divorced/separated/married,,4,Car or other,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Middle,,Own,3,Skilled,2,Yes,No,Low Risk
+4,Medium,Existing credits paid back,Radio/TV,Medium,Unknown / None,4 - 7 years,4,Male single,,3,Car or other,Young,Stores,Own,1,Skilled,2,Yes,No,Low Risk
+3,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Male single,,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Education,Medium,Unknown / None,1 - 4 years,2,Male single,,4,Unknown / None,Young,,Free,1,Unskilled,1,Yes,No,Low Risk
+2,Short,Existing credits paid back,Car (used),Medium,< 100 DM,< 1 year,2,Male single,,3,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+2,Medium,All credits paid back,Furniture/equipment,Low,>= 1000 DM,1 - 4 years,4,Male single,,2,Car or other,Young,Stores,Own,1,Skilled,1,Yes,No,Low Risk
+2,Medium,Existing credits paid back,Car (used),Medium,< 100 DM,1 - 4 years,2,Male single,,2,Car or other,Young,,Rent,1,Highly skilled,2,Yes,No,Low Risk
+2,Medium,No credit history,Business,Medium,Unknown / None,1 - 4 years,2,Male single,,2,Car or other,Middle,Bank,Own,1,Highly skilled,2,Yes,No,Low Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male single,,2,Car or other,Middle,,Own,1,Skilled,1,No,No,High Risk
+1,Short,Existing credits paid back,Education,Low,< 100 DM,1 - 4 years,4,Male single,,4,Car or other,Middle,,Rent,1,Unskilled,1,No,No,High Risk
+1,Medium,Critical account,Furniture/equipment,Low,500 <= savings < 1000,1 - 4 years,1,Female divorced/separated/married,,4,Car or other,Young,,Own,2,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Radio/TV,Medium,Unknown / None,4 - 7 years,4,Female divorced/separated/married,,3,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,High Risk
+1,Short,All credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male single,Guarantor,4,Car or other,Young,Bank,Rent,1,Unskilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,100 <= savings < 500,Unemployed,1,Male divorced/separated,,1,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,>= 7 years,2,Male single,,4,Car or other,Young,,Own,2,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Domestic appliances,Low,100 <= savings < 500,Unemployed,4,Female divorced/separated/married,,3,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Medium,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Middle,,Free,1,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Car (used),Low,< 100 DM,4 - 7 years,2,Male single,,1,Unknown / None,Young,,Free,1,Highly skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,2,Male single,,4,Unknown / None,Young,,Free,3,Highly skilled,2,Yes,No,Low Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,1,Male single,Guarantor,2,Building society savings,Young,,Own,1,Skilled,1,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,Guarantor,1,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,3,Female divorced/separated/married,,1,Real estate,Young,,Rent,1,Highly skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Others,Low,< 100 DM,>= 7 years,3,Male single,,4,Unknown / None,Middle,Bank,Free,2,Highly skilled,1,Yes,No,Low Risk
+1,Medium,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,Co-applicant,4,Unknown / None,Young,,Rent,2,Unskilled,2,Yes,No,High Risk
+1,Short,All credits paid back,Car (new),Low,< 100 DM,Unemployed,1,Female divorced/separated/married,Co-applicant,4,Unknown / None,Young,,Rent,2,Unemployed,2,No,No,High Risk
+1,Medium,No credit history,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male divorced/separated,Guarantor,2,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Medium,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,3,Male single,Guarantor,2,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,Guarantor,3,Building society savings,Middle,,Own,1,Unskilled,1,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Old,,Own,2,Skilled,2,No,No,Low Risk
+1,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,1,Male single,Guarantor,3,Building society savings,Middle,,Own,1,Skilled,1,No,No,Low Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,4 - 7 years,4,Male single,,2,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Car (used),Medium,< 100 DM,1 - 4 years,2,Male single,,2,Building society savings,Young,,Own,1,Skilled,1,No,No,High Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,4 - 7 years,2,Male single,,2,Building society savings,Young,,Own,2,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,Unknown / None,Unemployed,4,Female divorced/separated/married,,3,Building society savings,Old,,Own,1,Highly skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Male single,Guarantor,1,Building society savings,Young,,Own,1,Unskilled,2,No,No,Low Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,2,Male single,,2,Building society savings,Middle,Bank,Own,1,Skilled,1,No,No,High Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male divorced/separated,,3,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Delay in paying,Furniture/equipment,Low,< 100 DM,Unemployed,4,Male single,,1,Building society savings,Young,Stores,Own,2,Highly skilled,2,Yes,Yes,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,3,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Medium,Existing credits paid back,Car (used),Low,< 100 DM,4 - 7 years,4,Male single,,3,Building society savings,Young,,Own,1,Skilled,1,No,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,100 <= savings < 500,>= 7 years,4,Male single,,4,Unknown / None,Young,,Free,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,< 1 year,4,Female divorced/separated/married,,2,Building society savings,Young,Bank,Own,1,Unskilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male divorced/separated,,1,Car or other,Middle,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,Co-applicant,3,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,Guarantor,1,Building society savings,Middle,,Rent,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (used),Medium,< 100 DM,Unemployed,4,Male single,,2,Unknown / None,Young,,Free,1,Highly skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,Guarantor,4,Building society savings,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Medium,Critical account,Car (used),Medium,< 100 DM,>= 7 years,3,Male single,,4,Unknown / None,Middle,,Free,3,Highly skilled,1,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,4 - 7 years,4,Male single,,3,Car or other,Young,,Own,1,Highly skilled,1,Yes,No,Low Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,2,Male divorced/separated,,4,Building society savings,Young,,Own,1,Unskilled,2,No,No,High Risk
+2,Short,Critical account,Car (new),Low,< 100 DM,4 - 7 years,2,Male single,,3,Real estate,Middle,,Own,2,Unskilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Car (used),Medium,Unknown / None,1 - 4 years,2,Male divorced/separated,,4,Unknown / None,Middle,,Free,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Others,Medium,< 100 DM,Unemployed,4,Male single,Co-applicant,2,Unknown / None,Young,Bank,Own,2,Highly skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Car (used),Low,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Old,,Free,2,Highly skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,Co-applicant,2,Building society savings,Young,,Own,1,Unskilled,1,No,No,Low Risk
+1,Short,Critical account,Car (used),Medium,< 100 DM,Unemployed,2,Male single,,4,Unknown / None,Old,,Free,2,Highly skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,Unemployed,4,Male single,,4,Unknown / None,Young,,Free,3,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,Unemployed,4,Male single,,4,Unknown / None,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,>= 1000 DM,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Retraining,Low,Unknown / None,Unemployed,4,Male single,,4,Building society savings,Young,,Own,1,Highly skilled,1,Yes,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,Unemployed,3,Female divorced/separated/married,,4,Unknown / None,Middle,,Free,1,Highly skilled,2,No,No,Low Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,3,Building society savings,Young,,Rent,2,Skilled,2,No,No,Low Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Medium,< 100 DM,4 - 7 years,2,Male single,Guarantor,4,Building society savings,Middle,,Free,1,Skilled,1,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Male single,,4,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,Unemployed,4,Male single,,3,Building society savings,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+1,Medium,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,2,Male single,,4,Unknown / None,Middle,Bank,Free,1,Highly skilled,1,Yes,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,4,Male single,,1,Unknown / None,Young,Bank,Free,1,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,>= 7 years,3,Male single,,3,Building society savings,Old,,Own,2,Skilled,2,No,No,High Risk
+1,Short,Critical account,Business,Low,< 100 DM,< 1 year,3,Male single,,1,Building society savings,Young,Bank,Own,2,Unskilled,2,No,No,Low Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,>= 7 years,1,Female divorced/separated/married,,4,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Car (used),Low,< 100 DM,>= 7 years,4,Male single,,4,Building society savings,Old,,Own,2,Skilled,2,Yes,No,Low Risk
+1,Medium,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,3,Male married/widowed,,2,Building society savings,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+3,Medium,No credit history,Business,Low,< 100 DM,< 1 year,2,Male divorced/separated,,1,Building society savings,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Car (used),Medium,< 100 DM,>= 7 years,2,Female divorced/separated/married,,4,Unknown / None,Middle,,Free,2,Highly skilled,1,Yes,No,Low Risk
+1,Medium,Critical account,Car (used),Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,,4,Unknown / None,Old,Stores,Free,2,Unskilled,2,No,No,High Risk
+4,Short,Critical account,Education,Low,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Middle,,Free,2,Skilled,1,No,No,Low Risk
+1,Medium,Existing credits paid back,Others,High,< 100 DM,Unemployed,2,Male divorced/separated,Co-applicant,3,Car or other,Middle,,Own,1,Highly skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,100 <= savings < 500,>= 7 years,4,Male single,,4,Building society savings,Middle,Bank,Own,2,Skilled,2,No,No,Low Risk
+4,Medium,Delay in paying,Radio/TV,Medium,Unknown / None,>= 7 years,3,Male single,,3,Car or other,Young,Bank,Own,2,Skilled,1,No,No,Low Risk
+2,Medium,Delay in paying,Business,Low,100 <= savings < 500,>= 7 years,4,Male single,,2,Building society savings,Middle,Stores,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Business,Low,100 <= savings < 500,1 - 4 years,4,Male single,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,1 - 4 years,1,Female divorced/separated/married,,4,Building society savings,Middle,,Own,1,Unskilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,4,Building society savings,Middle,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Retraining,Low,Unknown / None,>= 7 years,4,Male single,,4,Building society savings,Middle,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,4,Building society savings,Middle,,Own,2,Skilled,2,No,No,Low Risk
+2,Medium,Delay in paying,Business,Medium,Unknown / None,1 - 4 years,4,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,1,Yes,No,Low Risk
+2,Short,Delay in paying,Business,Low,Unknown / None,>= 7 years,4,Male single,,2,Building society savings,Middle,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Radio/TV,Low,100 <= savings < 500,< 1 year,4,Male single,,4,Unknown / None,Middle,Bank,Own,2,Skilled,1,No,No,High Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,Guarantor,3,Real estate,Old,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Male single,Guarantor,2,Real estate,Young,,Own,1,Skilled,2,No,Yes,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,3,Male married/widowed,,3,Real estate,Young,,Own,1,Unskilled,2,No,Yes,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,Guarantor,2,Real estate,Young,,Own,1,Skilled,2,No,Yes,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male single,Guarantor,3,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Delay in paying,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male married/widowed,Co-applicant,4,Real estate,Young,,Rent,2,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Young,,Own,1,Skilled,1,No,No,Low Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,Guarantor,4,Real estate,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,Guarantor,1,Real estate,Middle,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Critical account,Radio/TV,Low,< 100 DM,< 1 year,4,Male single,Guarantor,4,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male married/widowed,Guarantor,2,Real estate,Young,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,3,Male single,Guarantor,2,Real estate,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,Guarantor,4,Building society savings,Young,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male married/widowed,Guarantor,2,Real estate,Young,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,Guarantor,4,Real estate,Young,,Own,1,Unskilled,1,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,Guarantor,2,Real estate,Middle,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Male married/widowed,Guarantor,1,Real estate,Young,Bank,Own,1,Unskilled,2,No,No,Low Risk
+3,Short,Critical account,Car (new),Low,100 <= savings < 500,>= 7 years,2,Male divorced/separated,,4,Car or other,Young,,Own,2,Skilled,1,Yes,No,Low Risk
+1,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,4,Real estate,Young,,Own,2,Unskilled,2,No,No,Low Risk
+2,Short,Critical account,Radio/TV,Low,< 100 DM,>= 7 years,3,Female divorced/separated/married,Guarantor,4,Real estate,Middle,Bank,Rent,2,Unskilled,2,Yes,No,Low Risk
+2,Short,Critical account,Radio/TV,Low,Unknown / None,4 - 7 years,4,Male single,Guarantor,2,Real estate,Young,Bank,Own,3,Skilled,2,Yes,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,3,Male married/widowed,Guarantor,3,Real estate,Young,Bank,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,All credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,4,Real estate,Young,Stores,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,3,Male married/widowed,Guarantor,3,Real estate,Middle,Bank,Own,2,Unskilled,2,No,No,Low Risk
+2,Short,Delay in paying,Car (used),Medium,Unknown / None,4 - 7 years,3,Male single,,4,Building society savings,Young,Bank,Rent,2,Highly skilled,1,Yes,No,Low Risk
+2,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,Guarantor,4,Real estate,Middle,,Own,2,Skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,3,Building society savings,Young,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Furniture/equipment,Low,< 100 DM,4 - 7 years,4,Male single,,3,Building society savings,Middle,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Male divorced/separated,,2,Car or other,Young,,Own,1,Unskilled,2,No,No,Low Risk
+2,Medium,All credits paid back,Domestic appliances,Low,Unknown / None,< 1 year,3,Female divorced/separated/married,,2,Unknown / None,Young,Bank,Own,1,Unemployed,2,No,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,1,Building society savings,Middle,Stores,Own,1,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,1 - 4 years,4,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Unskilled,2,No,No,High Risk
+4,Long,Existing credits paid back,Radio/TV,Medium,100 <= savings < 500,4 - 7 years,2,Female divorced/separated/married,,4,Real estate,Young,,Own,1,Skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,4,Male married/widowed,,3,Real estate,Young,,Own,1,Unskilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Repairs,Low,< 100 DM,< 1 year,3,Male married/widowed,,1,Building society savings,Young,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Delay in paying,Car (used),Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,2,Building society savings,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,3,Male single,,2,Real estate,Young,,Rent,1,Unskilled,2,No,No,Low Risk
+4,Long,Delay in paying,Radio/TV,High,< 100 DM,4 - 7 years,2,Male single,,4,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+3,Short,Delay in paying,Car (new),Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,2,Car or other,Young,Stores,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male married/widowed,,2,Building society savings,Young,,Own,1,Skilled,2,No,No,Low Risk
+2,Medium,Critical account,Car (used),Low,100 <= savings < 500,Unemployed,3,Male single,,4,Car or other,Young,,Own,1,Skilled,2,No,No,Low Risk
+1,Short,Critical account,Radio/TV,Low,>= 1000 DM,>= 7 years,4,Female divorced/separated/married,,4,Building society savings,Old,,Rent,2,Highly skilled,2,Yes,No,Low Risk
+1,Medium,Existing credits paid back,Car (used),Medium,Unknown / None,>= 7 years,3,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,2,No,No,High Risk
+2,Medium,Critical account,Car (used),Low,< 100 DM,1 - 4 years,3,Male single,,4,Car or other,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+1,Short,Delay in paying,Education,Medium,Unknown / None,1 - 4 years,1,Female divorced/separated/married,,2,Car or other,Young,,Rent,2,Skilled,2,Yes,No,Low Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Low,>= 1000 DM,>= 7 years,4,Female divorced/separated/married,,4,Building society savings,Old,,Rent,2,Skilled,2,Yes,No,Low Risk
+1,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Male single,,4,Real estate,Old,,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Domestic appliances,Low,500 <= savings < 1000,4 - 7 years,4,Male single,,3,Building society savings,Young,,Own,2,Skilled,2,Yes,No,Low Risk
+3,Short,Critical account,Furniture/equipment,Low,Unknown / None,>= 7 years,4,Male single,Co-applicant,4,Unknown / None,Young,,Rent,2,Skilled,2,No,No,Low Risk
+2,Medium,Critical account,Car (new),Low,Unknown / None,>= 7 years,4,Male single,,4,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Medium,All credits paid back,Business,Medium,< 100 DM,4 - 7 years,2,Female divorced/separated/married,Guarantor,4,Car or other,Young,,Rent,1,Skilled,2,No,No,High Risk
+4,Medium,Critical account,Education,Low,< 100 DM,1 - 4 years,1,Male single,,3,Unknown / None,Young,Bank,Free,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,Co-applicant,4,Unknown / None,Old,,Free,1,Skilled,2,Yes,No,Low Risk
+1,Medium,Critical account,Repairs,Low,< 100 DM,Unemployed,4,Male single,Co-applicant,4,Car or other,Old,,Own,2,Unemployed,2,No,No,Low Risk
+4,Medium,Critical account,Business,Low,Unknown / None,>= 7 years,4,Male single,,4,Real estate,Young,,Own,2,Skilled,2,No,No,Low Risk
+4,Short,Critical account,Education,Low,Unknown / None,>= 7 years,4,Female divorced/separated/married,,4,Building society savings,Middle,,Rent,2,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,2,Male single,Guarantor,3,Building society savings,Young,,Rent,1,Skilled,2,No,No,Low Risk
+4,Medium,No credit history,Repairs,Low,< 100 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,2,Skilled,2,No,No,Low Risk
+1,Medium,Existing credits paid back,Education,Medium,< 100 DM,4 - 7 years,4,Male single,,1,Unknown / None,Middle,,Free,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Business,Low,>= 1000 DM,1 - 4 years,2,Male single,,3,Building society savings,Middle,,Own,3,Highly skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,< 1 year,4,Female divorced/separated/married,,3,Real estate,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Long,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,1 - 4 years,2,Male married/widowed,,2,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Medium,Delay in paying,Education,Low,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,2,No,No,High Risk
+3,Short,Existing credits paid back,Education,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,,Rent,1,Highly skilled,2,Yes,No,Low Risk
+4,Short,Delay in paying,Car (used),Low,< 100 DM,1 - 4 years,3,Male single,,2,Real estate,Young,Stores,Own,2,Unskilled,2,No,No,Low Risk
+4,Medium,Delay in paying,Car (used),Medium,Unknown / None,4 - 7 years,3,Male single,,2,Car or other,Young,Stores,Own,1,Highly skilled,1,Yes,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,,2,Car or other,Young,Stores,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Car (used),Low,< 100 DM,1 - 4 years,1,Male married/widowed,,3,Car or other,Young,,Rent,1,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,500 <= savings < 1000,4 - 7 years,1,Female divorced/separated/married,,2,Car or other,Young,Bank,Own,1,Highly skilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,1,Highly skilled,2,Yes,No,Low Risk
+4,Medium,Critical account,Car (used),Medium,Unknown / None,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,Low Risk
+2,Long,Delay in paying,Radio/TV,Medium,Unknown / None,1 - 4 years,2,Male single,,2,Unknown / None,Young,,Free,1,Highly skilled,2,No,No,Low Risk
+2,Medium,All credits paid back,Car (used),Medium,< 100 DM,Unemployed,1,Male single,,2,Unknown / None,Middle,Bank,Free,1,Highly skilled,2,Yes,No,Low Risk
+4,Long,Existing credits paid back,Car (new),Medium,Unknown / None,1 - 4 years,4,Male single,,4,Unknown / None,Young,,Free,1,Skilled,1,Yes,No,Low Risk
+4,Short,Critical account,Car (used),Low,>= 1000 DM,>= 7 years,3,Male single,,4,Unknown / None,Young,,Rent,2,Skilled,2,Yes,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,Unemployed,1,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,Low Risk
+1,Medium,Existing credits paid back,Car (used),Low,< 100 DM,>= 7 years,2,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,1,No,No,Low Risk
+4,Short,Existing credits paid back,Domestic appliances,Low,500 <= savings < 1000,1 - 4 years,1,Male divorced/separated,,4,Real estate,Old,,Own,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Young,,Own,2,Unskilled,2,No,No,Low Risk
+4,Short,Critical account,Radio/TV,Low,>= 1000 DM,1 - 4 years,4,Male single,,3,Real estate,Middle,,Own,2,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Repairs,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,2,Unskilled,2,No,No,Low Risk
+2,Short,No credit history,Car (used),Low,100 <= savings < 500,>= 7 years,3,Male married/widowed,,4,Car or other,Young,Bank,Own,2,Skilled,2,Yes,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,4 - 7 years,3,Female divorced/separated/married,,4,Real estate,Young,,Own,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Radio/TV,Low,>= 1000 DM,4 - 7 years,2,Male divorced/separated,,4,Real estate,Old,,Own,1,Unskilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,1 - 4 years,2,Male married/widowed,,4,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+4,Medium,Critical account,Car (used),Medium,Unknown / None,>= 7 years,1,Male single,,4,Car or other,Old,,Own,2,Skilled,2,No,No,Low Risk
+4,Medium,Existing credits paid back,Car (used),Low,Unknown / None,4 - 7 years,2,Female divorced/separated/married,,4,Building society savings,Young,Stores,Rent,1,Unskilled,2,No,No,Low Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,1,Male married/widowed,,2,Building society savings,Young,,Rent,1,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Car (used),Low,Unknown / None,>= 7 years,4,Male single,,4,Unknown / None,Young,Bank,Free,1,Skilled,2,Yes,No,Low Risk
+4,Short,Critical account,Repairs,Low,< 100 DM,>= 7 years,3,Male single,,4,Unknown / None,Middle,,Free,2,Skilled,2,No,No,Low Risk
+2,Short,Existing credits paid back,Education,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,4,Building society savings,Old,,Own,2,Highly skilled,2,Yes,No,Low Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,3,Male divorced/separated,,4,Unknown / None,Middle,,Free,1,Skilled,2,No,No,Low Risk
+2,Medium,Delay in paying,Car (new),Low,100 <= savings < 500,>= 7 years,4,Male single,,3,Unknown / None,Young,,Free,1,Skilled,2,No,No,Low Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,4,Male single,,3,Car or other,Young,,Own,1,Unskilled,2,No,No,High Risk
+2,Short,Critical account,Education,Low,>= 1000 DM,>= 7 years,4,Male single,,3,Unknown / None,Young,,Free,2,Skilled,1,No,No,High Risk
+2,Short,Existing credits paid back,Car (used),Low,500 <= savings < 1000,< 1 year,3,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (new),High,Unknown / None,Unemployed,1,Male single,,2,Building society savings,Young,,Own,1,Unemployed,2,Yes,No,High Risk
+1,Short,No credit history,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,3,Car or other,Young,,Rent,2,Skilled,1,No,No,High Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Old,,Own,2,Unskilled,2,No,No,High Risk
+1,Short,No credit history,Car (new),Low,< 100 DM,1 - 4 years,4,Male single,,4,Car or other,Middle,Bank,Own,2,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,Guarantor,2,Unknown / None,Young,Bank,Own,1,Skilled,2,No,No,High Risk
+2,Medium,Critical account,Car (new),Low,< 100 DM,< 1 year,4,Male divorced/separated,,4,Car or other,Young,,Own,2,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male single,,4,Real estate,Young,,Own,2,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,4,Unknown / None,Old,,Free,2,Skilled,2,No,No,High Risk
+4,Short,No credit history,Car (new),Low,Unknown / None,1 - 4 years,1,Female divorced/separated/married,,4,Building society savings,Young,Bank,Own,2,Skilled,2,Yes,No,High Risk
+2,Long,Existing credits paid back,Education,Low,< 100 DM,1 - 4 years,4,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,2,No,No,High Risk
+4,Short,Delay in paying,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,,Own,2,Unskilled,1,No,No,High Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,4 - 7 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Medium,Critical account,Radio/TV,Low,< 100 DM,4 - 7 years,2,Male single,Guarantor,2,Real estate,Young,,Own,2,Skilled,2,No,No,High Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,3,Male single,,2,Building society savings,Young,Bank,Own,2,Skilled,2,No,No,High Risk
+2,Short,All credits paid back,Car (new),Low,100 <= savings < 500,4 - 7 years,2,Male single,,3,Unknown / None,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Domestic appliances,Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,2,Car or other,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,Unemployed,4,Male single,,2,Car or other,Young,Stores,Own,1,Highly skilled,1,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,3,Male single,,2,Unknown / None,Young,,Free,1,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Domestic appliances,Low,< 100 DM,1 - 4 years,4,Male married/widowed,,3,Real estate,Middle,,Own,1,Unskilled,2,Yes,No,High Risk
+1,Medium,Existing credits paid back,Car (new),Medium,< 100 DM,4 - 7 years,2,Male single,,1,Car or other,Young,,Own,1,Skilled,2,Yes,No,High Risk
+1,Medium,Delay in paying,Business,Low,< 100 DM,4 - 7 years,2,Male single,,1,Car or other,Young,,Own,2,Skilled,2,Yes,No,High Risk
+1,Medium,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Skilled,2,Yes,No,High Risk
+2,Short,Delay in paying,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male divorced/separated,,3,Unknown / None,Middle,,Own,1,Highly skilled,2,Yes,No,High Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,1,Male divorced/separated,,4,Real estate,Middle,,Rent,1,Highly skilled,2,Yes,No,High Risk
+2,Short,Critical account,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male married/widowed,,2,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Education,Low,100 <= savings < 500,1 - 4 years,3,Male single,,2,Building society savings,Middle,,Own,1,Highly skilled,2,Yes,No,High Risk
+2,Medium,Critical account,Furniture/equipment,Medium,< 100 DM,4 - 7 years,2,Male single,,2,Building society savings,Middle,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Delay in paying,Radio/TV,Low,< 100 DM,< 1 year,4,Male married/widowed,,4,Real estate,Middle,Stores,Own,1,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Car (new),High,< 100 DM,>= 7 years,4,Male single,,2,Unknown / None,Old,,Free,1,Highly skilled,2,Yes,No,High Risk
+2,Short,All credits paid back,Education,Low,>= 1000 DM,< 1 year,4,Female divorced/separated/married,,2,Building society savings,Young,Bank,Rent,1,Skilled,1,No,No,High Risk
+1,Short,All credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male divorced/separated,,1,Unknown / None,Young,,Free,1,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Radio/TV,Low,500 <= savings < 1000,>= 7 years,3,Male single,,2,Car or other,Young,Bank,Own,2,Skilled,2,Yes,No,High Risk
+2,Short,All credits paid back,Car (new),Low,100 <= savings < 500,< 1 year,1,Female divorced/separated/married,,1,Building society savings,Young,Stores,Own,1,Unskilled,2,No,No,High Risk
+2,Short,Delay in paying,Repairs,Low,>= 1000 DM,1 - 4 years,3,Male married/widowed,,3,Building society savings,Old,Stores,Own,2,Skilled,2,No,No,High Risk
+2,Short,No credit history,Business,Low,< 100 DM,1 - 4 years,1,Male single,,4,Real estate,Young,,Own,3,Unskilled,2,Yes,No,High Risk
+2,Short,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,,4,Car or other,Young,Bank,Own,1,Unskilled,2,No,No,High Risk
+2,Short,No credit history,Car (new),Low,< 100 DM,< 1 year,2,Female divorced/separated/married,,1,Real estate,Young,,Rent,2,Unemployed,2,No,No,High Risk
+3,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,,3,Real estate,Young,,Own,1,Unskilled,2,No,No,High Risk
+1,Short,All credits paid back,Furniture/equipment,Medium,< 100 DM,< 1 year,2,Male divorced/separated,,1,Building society savings,Middle,Bank,Own,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Education,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Building society savings,Middle,,Own,1,Skilled,2,No,No,High Risk
+3,Medium,Delay in paying,Business,Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Old,,Own,1,Highly skilled,2,Yes,No,High Risk
+2,Medium,No credit history,Business,Low,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Old,,Free,1,Highly skilled,2,Yes,No,High Risk
+3,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,,1,Real estate,Young,,Own,1,Unskilled,1,No,No,High Risk
+3,Short,Critical account,Education,Low,< 100 DM,< 1 year,2,Male divorced/separated,,1,Car or other,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,Unknown / None,>= 7 years,4,Female divorced/separated/married,,2,Car or other,Young,Bank,Own,1,Skilled,2,No,No,High Risk
+3,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,4,Male single,,3,Unknown / None,Middle,Bank,Free,1,Skilled,1,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,Unknown / None,4 - 7 years,4,Female divorced/separated/married,,4,Unknown / None,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (new),Low,Unknown / None,1 - 4 years,4,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,Unknown / None,1 - 4 years,4,Male married/widowed,,2,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Short,No credit history,Car (new),Low,100 <= savings < 500,< 1 year,3,Female divorced/separated/married,,3,Car or other,Young,,Own,2,Skilled,2,No,No,High Risk
+1,Long,Delay in paying,Business,Medium,< 100 DM,>= 7 years,3,Male single,,4,Unknown / None,Old,,Own,2,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male single,,2,Building society savings,Middle,,Rent,1,Highly skilled,2,Yes,No,High Risk
+1,Short,All credits paid back,Education,Low,< 100 DM,>= 7 years,4,Female divorced/separated/married,,4,Unknown / None,Young,,Free,1,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Business,High,< 100 DM,1 - 4 years,2,Male single,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,High Risk
+1,Long,Existing credits paid back,Business,Medium,< 100 DM,>= 7 years,4,Male single,Co-applicant,4,Unknown / None,Young,,Rent,1,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Repairs,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Real estate,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,2,Real estate,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Short,All credits paid back,Car (used),Low,< 100 DM,>= 7 years,2,Female divorced/separated/married,,4,Unknown / None,Old,Bank,Free,1,Highly skilled,1,Yes,No,High Risk
+4,Short,Delay in paying,Furniture/equipment,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Skilled,2,No,No,High Risk
+3,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,>= 7 years,1,Female divorced/separated/married,,4,Unknown / None,Middle,,Free,1,Unskilled,1,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,4,Male single,,2,Real estate,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,4,Real estate,Young,,Own,1,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,2,Female divorced/separated/married,Co-applicant,2,Car or other,Young,,Rent,2,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Radio/TV,Medium,>= 1000 DM,4 - 7 years,1,Male single,Co-applicant,2,Unknown / None,Young,Bank,Own,2,Skilled,2,Yes,No,High Risk
+1,Medium,Delay in paying,Education,Medium,< 100 DM,1 - 4 years,4,Male single,,3,Building society savings,Young,Stores,Own,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Male divorced/separated,,3,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,2,Real estate,Young,,Own,2,Skilled,2,Yes,No,High Risk
+1,Short,Delay in paying,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,2,Car or other,Young,,Rent,1,Unskilled,2,Yes,No,High Risk
+2,Short,Delay in paying,Car (new),Low,< 100 DM,Unemployed,4,Male single,,4,Building society savings,Middle,,Own,1,Highly skilled,2,Yes,No,High Risk
+2,Medium,No credit history,Business,Low,100 <= savings < 500,4 - 7 years,4,Male single,,4,Unknown / None,Young,,Free,1,Unskilled,1,No,No,High Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,3,Male single,Co-applicant,4,Building society savings,Middle,,Rent,2,Skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Repairs,Low,< 100 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,2,Real estate,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Medium,No credit history,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,1,Car or other,Middle,,Own,1,Skilled,2,Yes,No,High Risk
+4,Medium,Delay in paying,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,High Risk
+4,Medium,Delay in paying,Business,Medium,Unknown / None,< 1 year,4,Male single,,4,Car or other,Young,,Rent,2,Skilled,2,Yes,No,High Risk
+3,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,4,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (used),Medium,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,4,Car or other,Young,,Rent,2,Highly skilled,2,No,No,High Risk
+4,Short,No credit history,Business,Low,< 100 DM,1 - 4 years,2,Male single,,2,Car or other,Young,Stores,Own,2,Skilled,1,No,No,High Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,4 - 7 years,3,Male divorced/separated,,3,Car or other,Middle,,Own,1,Skilled,2,Yes,No,High Risk
+4,Short,All credits paid back,Car (new),Medium,< 100 DM,>= 7 years,2,Male single,,4,Unknown / None,Middle,Bank,Own,2,Highly skilled,1,Yes,No,High Risk
+4,Short,Existing credits paid back,Car (new),Low,500 <= savings < 1000,1 - 4 years,2,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Education,Low,Unknown / None,>= 7 years,4,Male single,,4,Unknown / None,Middle,,Own,1,Highly skilled,2,Yes,No,High Risk
+2,Short,Critical account,Furniture/equipment,Low,< 100 DM,< 1 year,2,Male single,,2,Real estate,Young,,Own,2,Unskilled,2,No,No,High Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,500 <= savings < 1000,1 - 4 years,4,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Unskilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Others,Medium,< 100 DM,1 - 4 years,2,Male single,Co-applicant,3,Car or other,Young,Bank,Own,2,Highly skilled,2,Yes,No,High Risk
+2,Short,Critical account,Others,Medium,< 100 DM,1 - 4 years,2,Male single,Co-applicant,3,Car or other,Middle,,Own,2,Highly skilled,1,Yes,No,High Risk
+2,Medium,Critical account,Radio/TV,Low,500 <= savings < 1000,1 - 4 years,4,Male single,,2,Building society savings,Young,,Own,2,Unskilled,2,No,No,High Risk
+2,Medium,Delay in paying,Radio/TV,Low,100 <= savings < 500,< 1 year,4,Male single,,3,Unknown / None,Young,Stores,Own,2,Highly skilled,2,No,No,High Risk
+2,Long,All credits paid back,Others,High,100 <= savings < 500,>= 7 years,3,Female divorced/separated/married,,4,Unknown / None,Old,Bank,Free,2,Highly skilled,2,Yes,No,High Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,1 - 4 years,4,Female divorced/separated/married,Co-applicant,4,Unknown / None,Middle,,Free,1,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Education,High,100 <= savings < 500,1 - 4 years,1,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,1,Yes,No,High Risk
+2,Medium,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,1 - 4 years,4,Male single,Guarantor,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Short,All credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,4,Real estate,Young,Bank,Own,1,Unskilled,2,No,No,High Risk
+2,Short,Critical account,Business,Low,< 100 DM,>= 7 years,4,Male divorced/separated,,4,Real estate,Young,,Own,2,Skilled,2,Yes,No,High Risk
+3,Short,Critical account,Car (new),Low,Unknown / None,4 - 7 years,4,Male single,,2,Real estate,Young,Bank,Own,2,Unskilled,1,No,No,High Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,4,Male married/widowed,Co-applicant,1,Building society savings,Middle,,Own,1,Unskilled,1,No,No,High Risk
+1,Medium,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,4,Male single,,4,Unknown / None,Middle,,Free,1,Skilled,1,No,No,High Risk
+1,Short,All credits paid back,Furniture/equipment,Low,500 <= savings < 1000,< 1 year,4,Male single,,4,Unknown / None,Young,,Free,1,Skilled,1,Yes,No,High Risk
+1,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male divorced/separated,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Male single,,3,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,< 1 year,4,Male married/widowed,,3,Unknown / None,Young,,Own,1,Unskilled,2,Yes,No,High Risk
+4,Medium,Existing credits paid back,Business,Low,Unknown / None,1 - 4 years,4,Male divorced/separated,,2,Real estate,Middle,Bank,Own,1,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Business,Low,< 100 DM,< 1 year,3,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,1,Male married/widowed,,1,Real estate,Young,,Rent,1,Skilled,2,No,No,High Risk
+4,Short,Critical account,Car (new),Low,< 100 DM,4 - 7 years,2,Male single,,2,Building society savings,Young,Bank,Own,2,Skilled,2,No,No,High Risk
+1,Medium,Critical account,Education,Low,< 100 DM,1 - 4 years,4,Male single,,3,Unknown / None,Young,Bank,Own,1,Skilled,2,Yes,No,High Risk
+3,Short,Critical account,Radio/TV,Low,Unknown / None,1 - 4 years,3,Male single,,4,Unknown / None,Middle,,Free,2,Skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,3,Female divorced/separated/married,,1,Car or other,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Car (used),Medium,< 100 DM,< 1 year,1,Male married/widowed,,4,Car or other,Young,,Rent,1,Highly skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,100 <= savings < 500,< 1 year,4,Female divorced/separated/married,,4,Car or other,Young,Bank,Rent,4,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,3,Female divorced/separated/married,,4,Car or other,Young,,Own,1,Unskilled,2,Yes,No,High Risk
+1,Medium,Existing credits paid back,Domestic appliances,Low,< 100 DM,1 - 4 years,3,Male single,,4,Car or other,Middle,,Own,1,Skilled,2,No,No,High Risk
+4,Medium,Critical account,Car (new),Medium,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,2,Real estate,Young,Stores,Own,2,Skilled,2,Yes,No,High Risk
+4,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,Unemployed,3,Female divorced/separated/married,Co-applicant,4,Real estate,Young,,Rent,1,Skilled,2,No,No,High Risk
+4,Medium,Delay in paying,Business,Medium,< 100 DM,< 1 year,1,Male divorced/separated,,1,Car or other,Young,,Own,2,Skilled,2,No,No,High Risk
+2,Short,All credits paid back,Education,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,4,Unknown / None,Young,Bank,Free,1,Unskilled,2,No,No,High Risk
+2,Medium,Critical account,Car (new),Low,< 100 DM,Unemployed,4,Male married/widowed,,2,Car or other,Young,,Own,2,Highly skilled,2,No,No,High Risk
+2,Medium,Critical account,Car (new),Low,< 100 DM,Unemployed,4,Male married/widowed,,2,Car or other,Young,,Own,2,Highly skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Radio/TV,Medium,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,3,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Short,All credits paid back,Others,Low,Unknown / None,>= 7 years,4,Male single,,3,Car or other,Middle,Stores,Own,1,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,Unemployed,4,Male single,,1,Car or other,Young,,Own,1,Unemployed,2,No,No,High Risk
+3,Short,No credit history,Radio/TV,Low,< 100 DM,< 1 year,4,Male single,,2,Car or other,Young,,Own,2,Highly skilled,2,Yes,No,High Risk
+1,Medium,Existing credits paid back,Car (new),Medium,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Middle,Bank,Free,1,Highly skilled,2,No,No,High Risk
+2,Short,All credits paid back,Car (new),Low,100 <= savings < 500,1 - 4 years,2,Male married/widowed,,2,Building society savings,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (new),Low,100 <= savings < 500,1 - 4 years,2,Female divorced/separated/married,,4,Car or other,Young,,Rent,2,Skilled,2,Yes,No,High Risk
+2,Medium,Existing credits paid back,Car (new),Medium,100 <= savings < 500,4 - 7 years,3,Male single,,2,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Medium,Critical account,Education,Medium,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,2,Unknown / None,Young,,Own,2,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Real estate,Young,,Own,1,Skilled,2,Yes,No,High Risk
+2,Medium,Existing credits paid back,Furniture/equipment,Medium,100 <= savings < 500,< 1 year,4,Male single,Co-applicant,1,Unknown / None,Young,,Rent,1,Highly skilled,2,Yes,No,High Risk
+2,Long,Existing credits paid back,Car (new),High,< 100 DM,4 - 7 years,4,Male single,,2,Unknown / None,Young,,Own,1,Highly skilled,2,Yes,No,High Risk
+1,Medium,Critical account,Car (used),Medium,< 100 DM,4 - 7 years,4,Male single,,4,Car or other,Young,,Own,2,Skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Radio/TV,Low,Unknown / None,1 - 4 years,2,Male married/widowed,,1,Real estate,Young,,Own,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,Unemployed,4,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Short,Delay in paying,Furniture/equipment,Low,< 100 DM,Unemployed,3,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Highly skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Car (used),High,< 100 DM,Unemployed,3,Female divorced/separated/married,,4,Unknown / None,Middle,,Free,1,Highly skilled,2,Yes,No,High Risk
+4,Short,Delay in paying,Business,Low,500 <= savings < 1000,< 1 year,4,Male single,,2,Real estate,Middle,Bank,Own,1,Unskilled,1,No,No,High Risk
+4,Medium,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,3,Real estate,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Business,Low,< 100 DM,1 - 4 years,4,Male single,,2,Car or other,Young,,Own,1,Skilled,1,Yes,No,High Risk
+4,Short,Existing credits paid back,Car (new),Low,Unknown / None,1 - 4 years,4,Male single,Guarantor,4,Building society savings,Young,,Own,1,Unskilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,2,Male single,Co-applicant,3,Building society savings,Young,,Own,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Male single,,1,Real estate,Young,,Own,1,Unskilled,1,No,No,High Risk
+2,Medium,Delay in paying,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Old,Bank,Free,2,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,Co-applicant,3,Car or other,Middle,,Own,1,Skilled,2,No,No,High Risk
+1,Short,No credit history,Furniture/equipment,Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Short,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,4,Real estate,Young,,Rent,2,Skilled,2,No,No,High Risk
+1,Short,All credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,4,Male single,,3,Car or other,Middle,Bank,Own,1,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Short,Delay in paying,Car (new),Low,< 100 DM,Unemployed,4,Male single,,2,Real estate,Middle,,Free,2,Skilled,1,No,No,High Risk
+1,Medium,No credit history,Furniture/equipment,Medium,< 100 DM,1 - 4 years,3,Male single,,4,Unknown / None,Middle,,Free,2,Skilled,1,No,No,High Risk
+1,Short,Delay in paying,Car (new),Low,< 100 DM,1 - 4 years,3,Male single,,4,Unknown / None,Middle,,Free,2,Skilled,1,No,No,High Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,3,Building society savings,Young,,Own,2,Skilled,2,No,No,High Risk
+1,Medium,Delay in paying,Radio/TV,Low,< 100 DM,4 - 7 years,3,Male single,,2,Building society savings,Young,Bank,Own,2,Skilled,1,Yes,No,High Risk
+1,Medium,All credits paid back,Furniture/equipment,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Young,Bank,Own,1,Skilled,2,No,No,High Risk
+1,Short,No credit history,Furniture/equipment,Low,< 100 DM,>= 7 years,3,Male single,,4,Unknown / None,Young,Bank,Rent,2,Skilled,1,No,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,,2,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,4,Car or other,Young,,Rent,1,Skilled,2,No,No,High Risk
+2,Short,No credit history,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,3,Building society savings,Young,,Rent,2,Skilled,2,No,No,High Risk
+1,Medium,No credit history,Car (used),Low,< 100 DM,>= 7 years,3,Male single,,4,Unknown / None,Young,,Free,2,Skilled,1,No,No,High Risk
+1,Medium,Critical account,Car (used),Medium,< 100 DM,>= 7 years,4,Male single,,4,Unknown / None,Middle,,Free,2,Skilled,2,Yes,No,High Risk
+1,Short,All credits paid back,Furniture/equipment,Low,< 100 DM,4 - 7 years,3,Male single,,4,Car or other,Young,Bank,Own,1,Skilled,2,No,No,High Risk
+1,Short,All credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Male single,,2,Car or other,Middle,Bank,Own,2,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,4,Female divorced/separated/married,,4,Car or other,Young,,Rent,2,Skilled,2,No,No,High Risk
+1,Medium,No credit history,Business,Low,< 100 DM,Unemployed,2,Male single,,4,Building society savings,Middle,,Own,2,Skilled,2,Yes,No,High Risk
+1,Short,Delay in paying,Education,Low,< 100 DM,< 1 year,2,Male single,,1,Building society savings,Young,Stores,Own,2,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Short,All credits paid back,Business,Low,< 100 DM,1 - 4 years,4,Male single,,2,Building society savings,Young,Bank,Rent,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Retraining,Low,< 100 DM,4 - 7 years,4,Male married/widowed,,4,Building society savings,Young,,Rent,1,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Car (used),Medium,< 100 DM,4 - 7 years,4,Male single,,4,Unknown / None,Middle,,Free,3,Skilled,1,Yes,No,High Risk
+2,Medium,No credit history,Business,High,< 100 DM,1 - 4 years,2,Male single,,2,Car or other,Young,Stores,Own,1,Skilled,2,Yes,No,High Risk
+2,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,3,Male single,Guarantor,3,Real estate,Young,,Own,2,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,3,Female divorced/separated/married,,1,Real estate,Young,Bank,Own,1,Unskilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,>= 7 years,1,Male divorced/separated,,1,Real estate,Middle,,Rent,2,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,4 - 7 years,2,Male divorced/separated,,3,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,2,Male single,Guarantor,4,Building society savings,Middle,,Rent,1,Skilled,2,Yes,Yes,High Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,1 - 4 years,4,Male married/widowed,Guarantor,2,Building society savings,Young,Bank,Rent,2,Skilled,2,No,Yes,High Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,2,Car or other,Young,Bank,Own,1,Skilled,2,No,No,High Risk
+2,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Young,,Own,1,Skilled,1,Yes,No,High Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,4,Male single,,2,Real estate,Young,Bank,Own,1,Unskilled,2,No,No,High Risk
+2,Medium,Delay in paying,Car (new),Medium,100 <= savings < 500,>= 7 years,2,Male single,,4,Car or other,Middle,Stores,Own,4,Highly skilled,2,Yes,No,High Risk
+4,Medium,Critical account,Car (new),Medium,500 <= savings < 1000,1 - 4 years,2,Male single,,2,Unknown / None,Middle,,Free,1,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,Bank,Own,1,Unskilled,1,No,No,High Risk
+4,Short,Existing credits paid back,Education,Low,< 100 DM,>= 7 years,4,Male single,,4,Car or other,Middle,Bank,Own,1,Unskilled,1,No,No,High Risk
+2,Medium,Existing credits paid back,Car (new),High,Unknown / None,1 - 4 years,1,Male single,,4,Unknown / None,Young,Bank,Free,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,4,Real estate,Old,,Own,1,Unskilled,2,No,No,High Risk
+2,Short,All credits paid back,Car (new),Medium,100 <= savings < 500,Unemployed,1,Male single,,2,Building society savings,Young,Stores,Own,1,Highly skilled,1,Yes,No,High Risk
+4,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Male single,,2,Real estate,Young,,Rent,1,Unskilled,2,No,No,High Risk
+4,Medium,All credits paid back,Car (used),Medium,Unknown / None,Unemployed,4,Female divorced/separated/married,,1,Real estate,Middle,Bank,Own,1,Highly skilled,2,Yes,No,High Risk
+1,Short,All credits paid back,Car (new),Low,< 100 DM,4 - 7 years,4,Male single,,4,Unknown / None,Young,Bank,Free,2,Unskilled,1,No,No,High Risk
+4,Short,Critical account,Radio/TV,Low,Unknown / None,>= 7 years,4,Female divorced/separated/married,,3,Building society savings,Young,,Own,1,Unskilled,1,No,No,High Risk
+2,Medium,Critical account,Radio/TV,Low,< 100 DM,< 1 year,4,Male single,,2,Building society savings,Young,Bank,Own,2,Unskilled,2,No,No,High Risk
+3,Short,Critical account,Car (new),Low,500 <= savings < 1000,4 - 7 years,4,Male married/widowed,,2,Real estate,Young,,Own,3,Skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Business,Low,< 100 DM,>= 7 years,2,Female divorced/separated/married,,4,Building society savings,Middle,,Own,1,Skilled,1,No,No,High Risk
+4,Medium,Critical account,Car (used),Medium,100 <= savings < 500,1 - 4 years,2,Female divorced/separated/married,,4,Car or other,Young,,Rent,2,Unskilled,2,No,No,High Risk
+3,Short,All credits paid back,Business,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,1,Real estate,Young,Bank,Own,1,Unemployed,2,No,No,High Risk
+1,Short,Critical account,Repairs,Low,< 100 DM,Unemployed,2,Female divorced/separated/married,,4,Unknown / None,Middle,,Free,3,Unemployed,1,No,No,High Risk
+2,Short,Existing credits paid back,Business,Low,100 <= savings < 500,>= 7 years,4,Male divorced/separated,,2,Car or other,Old,,Rent,2,Unskilled,2,No,No,High Risk
+2,Medium,Existing credits paid back,Furniture/equipment,Low,100 <= savings < 500,1 - 4 years,2,Female divorced/separated/married,Co-applicant,4,Car or other,Young,Bank,Rent,1,Skilled,2,No,No,High Risk
+2,Medium,No credit history,Business,Low,100 <= savings < 500,1 - 4 years,4,Female divorced/separated/married,,4,Car or other,Young,,Rent,2,Unskilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,< 1 year,3,Male married/widowed,,2,Car or other,Young,,Rent,1,Skilled,2,Yes,No,High Risk
+4,Short,Existing credits paid back,Car (new),Medium,Unknown / None,1 - 4 years,2,Male single,,4,Car or other,Old,Stores,Rent,2,Skilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,2,Male single,,1,Car or other,Young,,Own,1,Skilled,2,No,No,High Risk
+2,Long,No credit history,Business,High,< 100 DM,< 1 year,3,Male single,,4,Unknown / None,Old,,Rent,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Furniture/equipment,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Real estate,Young,,Rent,1,Unskilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,>= 7 years,4,Male single,,3,Car or other,Young,,Own,1,Skilled,1,No,No,High Risk
+2,Medium,Existing credits paid back,Furniture/equipment,Medium,< 100 DM,< 1 year,1,Female divorced/separated/married,,2,Car or other,Young,Bank,Own,1,Skilled,2,Yes,No,High Risk
+4,Short,Delay in paying,Business,Medium,< 100 DM,< 1 year,2,Male single,,2,Car or other,Young,Bank,Own,2,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male married/widowed,,3,Real estate,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,4,Unknown / None,Young,,Free,1,Skilled,2,Yes,No,High Risk
+1,Short,All credits paid back,Car (new),Low,Unknown / None,1 - 4 years,4,Male single,,2,Building society savings,Middle,Bank,Own,2,Unskilled,1,No,No,High Risk
+4,Medium,Existing credits paid back,Business,Low,< 100 DM,Unemployed,3,Male single,,2,Car or other,Young,,Rent,1,Highly skilled,2,Yes,No,High Risk
+2,Medium,No credit history,Business,Medium,< 100 DM,>= 7 years,2,Female divorced/separated/married,,4,Unknown / None,Middle,Stores,Free,2,Highly skilled,2,Yes,No,High Risk
+3,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,Co-applicant,2,Real estate,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Medium,No credit history,Business,Medium,< 100 DM,>= 7 years,2,Male single,,4,Car or other,Young,,Rent,2,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Education,Low,< 100 DM,< 1 year,4,Female divorced/separated/married,,4,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Repairs,Medium,< 100 DM,< 1 year,1,Male divorced/separated,,1,Unknown / None,Young,Bank,Own,1,Unskilled,2,Yes,No,High Risk
+2,Medium,No credit history,Others,High,< 100 DM,1 - 4 years,1,Female divorced/separated/married,,2,Building society savings,Young,Bank,Own,1,Highly skilled,2,Yes,Yes,High Risk
+1,Short,Existing credits paid back,Car (new),High,< 100 DM,>= 7 years,1,Male single,,4,Unknown / None,Old,Bank,Own,1,Highly skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Furniture/equipment,Low,Unknown / None,>= 7 years,1,Female divorced/separated/married,,2,Building society savings,Young,,Own,1,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Car (used),Low,< 100 DM,>= 7 years,3,Male single,,4,Unknown / None,Young,,Free,1,Skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,< 1 year,1,Male married/widowed,,1,Building society savings,Young,,Own,1,Skilled,2,Yes,No,High Risk
+4,Short,Delay in paying,Business,Low,< 100 DM,1 - 4 years,4,Male married/widowed,,2,Car or other,Young,,Own,1,Skilled,2,Yes,No,High Risk
+2,Medium,Critical account,Furniture/equipment,Low,< 100 DM,1 - 4 years,2,Female divorced/separated/married,,3,Car or other,Young,,Own,1,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,4,Female divorced/separated/married,,4,Car or other,Young,Bank,Rent,2,Skilled,2,No,No,High Risk
+1,Medium,Existing credits paid back,Radio/TV,Medium,< 100 DM,4 - 7 years,1,Male married/widowed,Guarantor,1,Real estate,Young,,Own,2,Skilled,2,Yes,No,High Risk
+4,Short,Critical account,Business,Low,< 100 DM,Unemployed,4,Male single,,2,Car or other,Middle,Stores,Own,2,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Car (new),Medium,< 100 DM,>= 7 years,1,Male divorced/separated,,4,Building society savings,Middle,,Own,1,Highly skilled,2,Yes,Yes,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,100 <= savings < 500,4 - 7 years,4,Male married/widowed,,1,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,< 1 year,1,Female divorced/separated/married,,2,Car or other,Young,,Own,1,Unskilled,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (new),Low,< 100 DM,1 - 4 years,3,Female divorced/separated/married,,4,Building society savings,Young,,Rent,1,Unskilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Education,Low,< 100 DM,Unemployed,4,Female divorced/separated/married,,1,Real estate,Young,,Own,1,Unemployed,2,No,No,High Risk
+2,Short,Existing credits paid back,Car (used),High,< 100 DM,>= 7 years,4,Female divorced/separated/married,,2,Unknown / None,Middle,,Free,1,Highly skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Car (used),Medium,Unknown / None,>= 7 years,1,Male single,,4,Building society savings,Middle,,Free,1,Skilled,1,Yes,No,High Risk
+1,Short,Critical account,Car (new),Low,< 100 DM,>= 7 years,1,Female divorced/separated/married,,4,Real estate,Young,Bank,Rent,3,Skilled,2,Yes,No,High Risk
+1,Short,No credit history,Radio/TV,Low,< 100 DM,1 - 4 years,4,Male single,,2,Building society savings,Young,,Rent,2,Skilled,2,Yes,No,High Risk
+1,Short,Existing credits paid back,Radio/TV,Low,< 100 DM,1 - 4 years,2,Male single,,4,Real estate,Young,,Rent,1,Unskilled,1,No,No,High Risk
+1,Short,Existing credits paid back,Car (new),Low,< 100 DM,>= 7 years,4,Male single,Co-applicant,1,Real estate,Middle,,Own,1,Skilled,2,No,No,High Risk
+4,Short,Critical account,Car (new),High,Unknown / None,>= 7 years,4,Male single,,4,Unknown / None,Young,,Free,1,Highly skilled,2,Yes,No,High Risk
+2,Short,Existing credits paid back,Radio/TV,Medium,Unknown / None,Unemployed,2,Male single,,1,Unknown / None,Middle,,Own,1,Highly skilled,2,Yes,No,High Risk
+1,Medium,Existing credits paid back,Furniture/equipment,Medium,Unknown / None,>= 7 years,4,Male single,,4,Building society savings,Young,,Own,1,Skilled,2,No,No,High Risk
