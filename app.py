@@ -5,6 +5,13 @@ import joblib
 import ollama 
 import os
 
+# Add this near your imports
+STATUS_MAP = {
+    1: "< 0 DM (Debt/Low)",
+    2: "0 <= Balance < 200 DM",
+    3: ">= 200 DM / Stable Salary",
+    4: "No Checking Account"
+}
 # -----------------------------
 # 1. Load Model & Rules
 # -----------------------------
@@ -131,7 +138,11 @@ col_in, col_out = st.columns([1, 1.2], gap="large")
 with col_in:
     with st.container(border=True):
         st.subheader("Applicant Profile")
-        checking = st.selectbox("Account Status", [1, 2, 3, 4])
+        checking = st.selectbox(
+            "Account Status", 
+            options=list(STATUS_MAP.keys()), 
+            format_func=lambda x: STATUS_MAP[x]
+        )
         history = st.selectbox("Credit History", [
             "All credits paid back", "Critical account", "Delay in paying", 
             "Existing credits paid back", "No credit history"
