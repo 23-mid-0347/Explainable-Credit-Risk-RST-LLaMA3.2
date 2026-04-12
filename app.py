@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import json
 import joblib
-import ollama 
+import ollama
 import os
-
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # Add this near your imports
 STATUS_MAP = {
     1: "< 0 DM (Debt/Low)",
@@ -19,8 +19,8 @@ STATUS_MAP = {
 def load_assets():
     try:
         # Update these paths to match your local machine
-        model_path = r"D:\Coding\6th sem\Soft Computing\Credit Risk Assessment\models\rf_model.pkl"
-        rules_path = r"D:\Coding\6th sem\Soft Computing\Credit Risk Assessment\rules\rules.json"
+        model_path = os.path.join(BASE_DIR, "models", "rf_model.pkl")
+        rules_path = os.path.join(BASE_DIR, "rules", "rules.json")
         
         model = joblib.load(model_path)
         with open(rules_path, "r") as f:
@@ -92,7 +92,7 @@ def generate_explanation(reasoning):
         "Explain their credit assessment results in a natural, supportive way. "
         "\n\nSTRICT FORMATTING RULES:"
         "\n- Do NOT use headers like 'Paragraph 1', 'Part', or 'Heading'."
-        "\n- Write exactly two short, cohesive paragraphs."
+        "\n- Write exactly three short, cohesive paragraphs."
         "\n- Paragraph 1: Explain that while their history is reliable, low savings create a 'liquidity gap' making them vulnerable to emergencies."
         "\n- Paragraph 2: Give encouraging advice on building a cash buffer to strengthen their future profile."
         "\n- Do NOT mention 'technical logic', 'prediction', or 'rules'."

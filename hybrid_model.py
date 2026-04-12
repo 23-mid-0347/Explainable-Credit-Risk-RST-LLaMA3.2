@@ -1,15 +1,16 @@
 import pandas as pd
 import json
 import joblib
-
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # Load trained ML model
 model = joblib.load(
-    r"D:\Coding\6th sem\Soft Computing\Credit Risk Assessment\models\rf_model.pkl"
+    os.path.join(BASE_DIR, "models", "rf_model.pkl")
 )
 
 # Load rules
 with open(
-    r"D:\Coding\6th sem\Soft Computing\Credit Risk Assessment\rules\rules.json",
+    os.path.join(BASE_DIR, "rules", "rules.json"),
     "r"
 ) as f:
     rules_data = json.load(f)
