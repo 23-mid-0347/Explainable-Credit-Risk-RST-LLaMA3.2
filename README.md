@@ -123,4 +123,6 @@ The applicant is classified as high risk due to a poor credit history and limite
 ## Author
 
 Shyam Prasad
+Pooja s
+Arul Amuthan
 GitHub: @23-mid-0347
