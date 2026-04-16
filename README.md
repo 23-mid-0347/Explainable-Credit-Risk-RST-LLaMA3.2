@@ -1,3 +1,5 @@
+Work done under my supervision (soft computing)-Dr S S Roy
+
 # Explainable Credit Risk Assessment using Rough Set Theory and LLaMA 3.2
 
 ## Overview
